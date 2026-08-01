@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T10:32:43",
+  "last_updated": "2026-08-01T10:33:08",
   "html": {
     "https://web.archive.org/web/20260703125445if_/https://twitter.com/L0OKMe3/status/2073027666505261273": {
       "status": "done",
@@ -228,9 +228,9 @@
       "referenced_by": [
         "20260705012924_twitter_com_L0OKMe3_status_2073579970379575454.json"
       ],
-      "last_updated": "2026-08-01T10:20:22",
+      "last_updated": "2026-08-01T10:33:08",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260705012924if_/https://pbs.twimg.com/profile_images/2071748169667350528/bOQCo0Hy_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg": {
       "status": "done",
