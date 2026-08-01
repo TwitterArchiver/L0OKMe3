@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2074502425625407772",
+    "created_at": "2026-07-07T14:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074502425625407772"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074502425625407772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有一个高中在读的好朋友 她被学习压的喘不上气 她与我诉说自身的崩溃 她不想再上学了 好痛苦\n我想帮她 但我不知道自己该怎么做 因为我也很向往上高中 我认为上了高中未来会更好 可她实在太累 她厌学 那个学校过于非人 \n高中把五年级那个纯真的孩子折磨的不成人形 我不该把一己私欲再强压在她身上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2074502425625407772",
+        "created_at": "2026-07-07T14:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074502425625407772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074502425625407772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个高中在读的好朋友 她被学习压的喘不上气 她与我诉说自身的崩溃 她不想再上学了 好痛苦\n我想帮她 但我不知道自己该怎么做 因为我也很向往上高中 我认为上了高中未来会更好 可她实在太累 她厌学 那个学校过于非人 \n高中把五年级那个纯真的孩子折磨的不成人形 我不该把一己私欲再强压在她身上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "我是上帝，我在審視一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失傳媒體",
+        "name": "時行?",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071050732862631936/S6NhD6zU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7162,
+          "following_count": 229,
+          "like_count": 32835,
+          "listed_count": 19,
+          "media_count": 214,
+          "tweet_count": 1263
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false
+      }
+    ]
+  }
+}

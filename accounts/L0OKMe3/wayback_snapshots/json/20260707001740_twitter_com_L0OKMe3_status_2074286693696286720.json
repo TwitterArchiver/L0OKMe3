@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074286681306419200"
+      ]
+    },
+    "author_id": "1795072631169044480",
+    "conversation_id": "2074286693696286720",
+    "created_at": "2026-07-07T00:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T01:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074286693696286720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cFsD4AJW6A",
+          "end": 73,
+          "expanded_url": "https://x.com/L0OKMe3/status/2074286693696286720/photo/1",
+          "media_key": "3_2074286681306419200",
+          "start": 50,
+          "url": "https://t.co/cFsD4AJW6A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074286693696286720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种傻逼真他妈看的我头大 在这种场合说这种话 你母杀了你的时候我都要说几句你母自己也会崩溃 杀的好 https://t.co/cFsD4AJW6A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1362,
+        "media_key": "3_2074286681306419200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlYvyGX0AAi4Jg.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074286681306419200"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "2074286693696286720",
+        "created_at": "2026-07-07T00:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074286693696286720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFsD4AJW6A",
+              "end": 73,
+              "expanded_url": "https://x.com/L0OKMe3/status/2074286693696286720/photo/1",
+              "media_key": "3_2074286681306419200",
+              "start": 50,
+              "url": "https://t.co/cFsD4AJW6A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074286693696286720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种傻逼真他妈看的我头大 在这种场合说这种话 你母杀了你的时候我都要说几句你母自己也会崩溃 杀的好 https://t.co/cFsD4AJW6A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "我是上帝，我在審視一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失傳媒體",
+        "name": "時行?",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071050732862631936/S6NhD6zU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7160,
+          "following_count": 230,
+          "like_count": 32832,
+          "listed_count": 19,
+          "media_count": 215,
+          "tweet_count": 1262
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false
+      }
+    ]
+  }
+}

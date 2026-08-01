@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073756274135621632",
+        "3_2073756274156511232"
+      ]
+    },
+    "author_id": "1795072631169044480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073756285015666912",
+    "created_at": "2026-07-05T13:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073756285015666912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hdz0MbeZmC",
+          "end": 27,
+          "expanded_url": "https://x.com/L0OKMe3/status/2073756285015666912/photo/1",
+          "media_key": "3_2073756274135621632",
+          "start": 4,
+          "url": "https://t.co/hdz0MbeZmC"
+        },
+        {
+          "display_url": "pic.x.com/hdz0MbeZmC",
+          "end": 27,
+          "expanded_url": "https://x.com/L0OKMe3/status/2073756285015666912/photo/1",
+          "media_key": "3_2073756274156511232",
+          "start": 4,
+          "url": "https://t.co/hdz0MbeZmC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073756285015666912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "找血仆 https://t.co/hdz0MbeZmC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2073756274135621632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd2WBaXYAAPKw6.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2073756274156511232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd2WBfWIAABQTb.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073756274135621632",
+            "3_2073756274156511232"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073756285015666912",
+        "created_at": "2026-07-05T13:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073756285015666912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdz0MbeZmC",
+              "end": 27,
+              "expanded_url": "https://x.com/L0OKMe3/status/2073756285015666912/photo/1",
+              "media_key": "3_2073756274135621632",
+              "start": 4,
+              "url": "https://t.co/hdz0MbeZmC"
+            },
+            {
+              "display_url": "pic.x.com/hdz0MbeZmC",
+              "end": 27,
+              "expanded_url": "https://x.com/L0OKMe3/status/2073756285015666912/photo/1",
+              "media_key": "3_2073756274156511232",
+              "start": 4,
+              "url": "https://t.co/hdz0MbeZmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073756285015666912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找血仆 https://t.co/hdz0MbeZmC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "我是上帝，我在審視一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失傳媒體",
+        "name": "時行?",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071050732862631936/S6NhD6zU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7158,
+          "following_count": 230,
+          "like_count": 32827,
+          "listed_count": 19,
+          "media_count": 214,
+          "tweet_count": 1257
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false
+      }
+    ]
+  }
+}

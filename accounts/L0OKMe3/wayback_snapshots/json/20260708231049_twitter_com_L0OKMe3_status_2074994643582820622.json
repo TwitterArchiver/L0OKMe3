@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074994634309197824"
+      ]
+    },
+    "author_id": "1795072631169044480",
+    "conversation_id": "2074994643582820622",
+    "created_at": "2026-07-08T23:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T00:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074994643582820622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J31yUTe7sG",
+          "end": 42,
+          "expanded_url": "https://x.com/L0OKMe3/status/2074994643582820622/photo/1",
+          "media_key": "3_2074994634309197824",
+          "start": 19,
+          "url": "https://t.co/J31yUTe7sG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074994643582820622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这些广告到底从哪盗的这么多外国人账号 https://t.co/J31yUTe7sG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2074994634309197824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvcoEjXYAAATNt.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074994634309197824"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "2074994643582820622",
+        "created_at": "2026-07-08T23:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T00:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074994643582820622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J31yUTe7sG",
+              "end": 42,
+              "expanded_url": "https://x.com/L0OKMe3/status/2074994643582820622/photo/1",
+              "media_key": "3_2074994634309197824",
+              "start": 19,
+              "url": "https://t.co/J31yUTe7sG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074994643582820622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这些广告到底从哪盗的这么多外国人账号 https://t.co/J31yUTe7sG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "我是上帝，我在審視一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失傳媒體",
+        "name": "時行?",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071050732862631936/S6NhD6zU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7157,
+          "following_count": 230,
+          "like_count": 32837,
+          "listed_count": 19,
+          "media_count": 212,
+          "tweet_count": 1263
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false
+      }
+    ]
+  }
+}
