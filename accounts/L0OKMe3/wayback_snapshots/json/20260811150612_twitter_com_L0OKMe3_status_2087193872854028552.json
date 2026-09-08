@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087193859918823424"
+      ]
+    },
+    "author_id": "1795072631169044480",
+    "conversation_id": "2087193872854028552",
+    "created_at": "2026-08-11T15:06:12.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T16:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087193872854028552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mfraln1tM5",
+          "end": 39,
+          "expanded_url": "https://x.com/L0OKMe3/status/2087193872854028552/photo/1",
+          "media_key": "3_2087193859918823424",
+          "start": 16,
+          "url": "https://t.co/mfraln1tM5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087193872854028552",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087193859918823424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我遇到的男生大多bybike： https://t.co/mfraln1tM5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2087193859918823424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPczwdXWgAA8VCA.jpg",
+        "width": 838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087193859918823424"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "2087193872854028552",
+        "created_at": "2026-08-11T15:06:12.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087193872854028552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mfraln1tM5",
+              "end": 39,
+              "expanded_url": "https://x.com/L0OKMe3/status/2087193872854028552/photo/1",
+              "media_key": "3_2087193859918823424",
+              "start": 16,
+              "url": "https://t.co/mfraln1tM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087193872854028552",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087193859918823424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我遇到的男生大多bybike： https://t.co/mfraln1tM5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "我是上帝，我在審視一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2087193872854028552",
+        "name": "時行?",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1770214959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071050732862631936/S6NhD6zU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7085,
+          "following_count": 226,
+          "like_count": 32561,
+          "listed_count": 20,
+          "media_count": 214,
+          "tweet_count": 1264
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2089710312333488241",
+    "created_at": "2026-08-19T18:18:31.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T19:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090141373731328071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878367287272693761",
+          "start": 0,
+          "username": "TrickOnU8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090141373731328071",
+    "in_reply_to_user_id": "1878367287272693761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090025941410226332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TrickOnU8964 woc 这波值了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2090025941410226332].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2090025941410226332",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2090025941410226332"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2089710312333488241",
+        "created_at": "2026-08-19T18:18:31.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090141373731328071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878367287272693761",
+              "start": 0,
+              "username": "TrickOnU8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090141373731328071",
+        "in_reply_to_user_id": "1878367287272693761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090025941410226332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TrickOnU8964 woc 这波值了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "8月15 天台見",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2090141373731328071",
+        "name": "呕吐格瓦斯",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1770214959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088616166600437762/psxVgQwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7055,
+          "following_count": 224,
+          "like_count": 32543,
+          "listed_count": 20,
+          "media_count": 216,
+          "tweet_count": 1264
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-12T09:04:05.000Z",
+        "description": "請記得我，記得我右側的心跳聲 \nNon-binary Demiboy\nhe/him/they/them",
+        "id": "1878367287272693761",
+        "is_identity_verified": false,
+        "location": "北歐",
+        "most_recent_tweet_id": "2065483691342897318",
+        "name": "彈積極",
+        "pinned_tweet_id": "2088912984810897697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878367287272693761/1781428933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090110342575865856/VeUsI5r3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 186,
+          "like_count": 6386,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "TrickOnU8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

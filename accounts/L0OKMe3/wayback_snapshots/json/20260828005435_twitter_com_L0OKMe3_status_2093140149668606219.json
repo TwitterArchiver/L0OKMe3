@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2093140149668606219",
+    "created_at": "2026-08-28T00:54:35.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T01:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093140149668606219"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2093140149668606219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好奇怪 \n因为看重感情所以不会随便找一个刚认识不久的人亲密 但也同样不肯和接触许久的朋友在一起 害怕表白失败或者分手可能连朋友都做不成\n为什么有些人仅仅只是一两句口头承诺就可以轻而易举的和对方说在一起就在一起 \n为什么那些人又可以毫无负担的表白爱意\n这种亲密的情感或许对于我而言太过沉重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2093140149668606219",
+        "created_at": "2026-08-28T00:54:35.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T01:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093140149668606219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093140149668606219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇怪 \n因为看重感情所以不会随便找一个刚认识不久的人亲密 但也同样不肯和接触许久的朋友在一起 害怕表白失败或者分手可能连朋友都做不成\n为什么有些人仅仅只是一两句口头承诺就可以轻而易举的和对方说在一起就在一起 \n为什么那些人又可以毫无负担的表白爱意\n这种亲密的情感或许对于我而言太过沉重"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "8月15 天台見",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2093140149668606219",
+        "name": "呕吐格瓦斯",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1770214959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088616166600437762/psxVgQwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7054,
+          "following_count": 224,
+          "like_count": 32501,
+          "listed_count": 20,
+          "media_count": 217,
+          "tweet_count": 1270
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

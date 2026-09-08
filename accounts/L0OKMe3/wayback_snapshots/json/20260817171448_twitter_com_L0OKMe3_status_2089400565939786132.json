@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089400517583581184"
+      ]
+    },
+    "author_id": "1795072631169044480",
+    "conversation_id": "2089400565939786132",
+    "created_at": "2026-08-17T17:14:48.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T18:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089400565939786132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gUC96Eu9Og",
+          "end": 29,
+          "expanded_url": "https://x.com/L0OKMe3/status/2089400565939786132/video/1",
+          "media_key": "13_2089400517583581184",
+          "start": 6,
+          "url": "https://t.co/gUC96Eu9Og"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089400565939786132",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2089400517583581184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "展示厨艺。 https://t.co/gUC96Eu9Og"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9466,
+        "height": 1280,
+        "media_key": "13_2089400517583581184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089400517583581184/img/VPtT7TFOAitVg3DM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089400517583581184/vid/avc1/320x568/Qpxukd7DL2ULVmAd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089400517583581184/vid/avc1/480x852/nIHLXPLFBlsjuuNQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089400517583581184/vid/avc1/720x1280/QwsxHjGr9V7_SjcX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089400517583581184/pl/gIbHaRGHX-n6O6oE.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089400517583581184"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "2089400565939786132",
+        "created_at": "2026-08-17T17:14:48.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089400565939786132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUC96Eu9Og",
+              "end": 29,
+              "expanded_url": "https://x.com/L0OKMe3/status/2089400565939786132/video/1",
+              "media_key": "13_2089400517583581184",
+              "start": 6,
+              "url": "https://t.co/gUC96Eu9Og"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089400565939786132",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2089400517583581184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "展示厨艺。 https://t.co/gUC96Eu9Og"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "8月15 天台見",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2089400565939786132",
+        "name": "呕吐格瓦斯",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1770214959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088616166600437762/psxVgQwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7064,
+          "following_count": 225,
+          "like_count": 32518,
+          "listed_count": 20,
+          "media_count": 215,
+          "tweet_count": 1255
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2096873227373211732",
+    "created_at": "2026-09-07T08:12:20.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T09:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096874192893595654"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2096874192893595654",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096873227373211732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对于真情实意的朋友 我无法当面向对的说出“我爱你”\n真是特别拧巴呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "3_2096873214752542720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmXFEBbUAAtPmC.jpg",
+        "width": 548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2096873227373211732",
+        "created_at": "2026-09-07T08:12:20.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096874192893595654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096874192893595654",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096873227373211732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于真情实意的朋友 我无法当面向对的说出“我爱你”\n真是特别拧巴呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096873214752542720"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "2096873227373211732",
+        "created_at": "2026-09-07T08:08:30.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096873227373211732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACuI7etKPo",
+              "end": 173,
+              "expanded_url": "https://x.com/L0OKMe3/status/2096873227373211732/photo/1",
+              "media_key": "3_2096873214752542720",
+              "start": 150,
+              "url": "https://t.co/ACuI7etKPo"
+            },
+            {
+              "display_url": "x.com/qhqq114514/sta…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/qhqq114514/status/2096639011032866829",
+              "start": 174,
+              "url": "https://t.co/yJ8Hwxqitm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096873227373211732",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096873214752542720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096639011032866829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在昨天晚上 我发这个帖子的时间线 同时那个女孩也向我表白 真心实意的 但是我直到现在才看到 她说的每一句话都是那么小心翼翼 她害怕我会有很强烈的自责愧疚感\n是的 我会有 我真心觉得自己配不上她 但我真的好开心呀 认识你 我真的很幸福 至少现在 我爱你吖♡\n你做的已经非常好了 不要担心 不用担心:) https://t.co/ACuI7etKPo https://t.co/yJ8Hwxqitm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2096874192893595654",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1788717155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7049,
+          "following_count": 223,
+          "like_count": 32508,
+          "listed_count": 20,
+          "media_count": 218,
+          "tweet_count": 1287
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
