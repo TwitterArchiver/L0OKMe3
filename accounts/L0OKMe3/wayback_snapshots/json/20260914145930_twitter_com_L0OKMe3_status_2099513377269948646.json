@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2099513164824207822",
+    "created_at": "2026-09-14T14:59:30.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T15:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099513377269948646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1103830967163117568",
+          "start": 0,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099513377269948646",
+    "in_reply_to_user_id": "1103830967163117568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099513164824207822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anblk984 爸爸❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2099513158260215808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSL4F_9b0AAudoc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2099513164824207822",
+        "created_at": "2026-09-14T14:59:30.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099513377269948646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099513377269948646",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099513164824207822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 爸爸❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099513158260215808"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2099513164824207822",
+        "created_at": "2026-09-14T14:58:40.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099513164824207822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKwlVhQJIQ",
+              "end": 29,
+              "expanded_url": "https://x.com/anblk984/status/2099513164824207822/photo/1",
+              "media_key": "3_2099513158260215808",
+              "start": 6,
+              "url": "https://t.co/sKwlVhQJIQ"
+            },
+            {
+              "display_url": "x.com/L0OKMe3/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/L0OKMe3/status/2099014601581166887",
+              "start": 30,
+              "url": "https://t.co/1lg2HfHywQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099513164824207822",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099513158260215808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099014601581166887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他是谁👋😁 https://t.co/sKwlVhQJIQ https://t.co/1lg2HfHywQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2099513377269948646",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7065,
+          "following_count": 224,
+          "like_count": 32493,
+          "listed_count": 21,
+          "media_count": 225,
+          "tweet_count": 1332
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/数学家教接单中/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真/最后感谢大爹画窝头像@data_syuxchu/小游戏网站@losb555置顶\ntg频道：https://t.co/H2pejl6igE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "username": "losb555"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 107,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 84,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/q688tpr899yu2t…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/q688tpr899yu2td?t=kdJeZO&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/pJcmtWQ5Rs"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "is_identity_verified": false,
+        "location": "梁家河冲浪里          下面是解答世间万物",
+        "most_recent_tweet_id": "2099513164824207822",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1103830967163117568/1782207138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091015106889166848/J7fbT7o7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18071,
+          "following_count": 1079,
+          "like_count": 135057,
+          "listed_count": 82,
+          "media_count": 3769,
+          "tweet_count": 32487
+        },
+        "url": "https://t.co/pJcmtWQ5Rs",
+        "username": "anblk984",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

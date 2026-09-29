@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2098090858746921465",
+    "created_at": "2026-09-12T17:59:09.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098833810083463400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884627325398212611",
+          "start": 0,
+          "username": "revive_myne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098833810083463400",
+    "in_reply_to_user_id": "1884627325398212611",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098801787373257101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@revive_myne 我也不清楚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2098090858746921465",
+        "created_at": "2026-09-12T17:59:09.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098833810083463400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884627325398212611",
+              "start": 0,
+              "username": "revive_myne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098833810083463400",
+        "in_reply_to_user_id": "1884627325398212611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098801787373257101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@revive_myne 我也不清楚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884627325398212611",
+        "conversation_id": "2098090858746921465",
+        "created_at": "2026-09-12T15:51:54.000Z",
+        "display_text_range": [
+          9,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098801787373257101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "L0OKMe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098801787373257101",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098090858746921465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L0OKMe3 又有什么新瓜了吗（）现在互联网上的各种事件没一个了解的整的我好像什么刚接触现代科技的原始人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2098833810083463400",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7072,
+          "following_count": 224,
+          "like_count": 32470,
+          "listed_count": 21,
+          "media_count": 221,
+          "tweet_count": 1318
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "2007\n\nthey/any \n｜\nMinecraft 基岩版回归玩家｜enby（neutrois）｜aplatonic｜多意识体\n|\n二十二月系统\n|\n里推：@knimaisey\n|\n呃画的都放这里好了：@Victimized_P （现在转tumblr 了，myne @ yesiamink）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "knimaisey"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Victimized_P"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "is_identity_verified": false,
+        "location": "SilverLawn",
+        "most_recent_tweet_id": "2098801787373257101",
+        "name": "铭",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884627325398212611/1760969839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087099355220058113/efZg697b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 199,
+          "like_count": 12822,
+          "listed_count": 3,
+          "media_count": 992,
+          "tweet_count": 6075
+        },
+        "url": "",
+        "username": "revive_myne",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

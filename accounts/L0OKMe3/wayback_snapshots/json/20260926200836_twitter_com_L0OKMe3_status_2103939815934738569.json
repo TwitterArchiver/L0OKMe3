@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2103939815934738569",
+    "created_at": "2026-09-26T20:08:36.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T21:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103939815934738569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vincent_ainote…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/vincent_ainotes/status/2103707857464311840",
+          "start": 60,
+          "url": "https://t.co/fKvxGaqAvL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103939815934738569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103707857464311840",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本来是没有戾气的 刷一会评论区感觉脑子纹路已经平滑许多\nAI二创的玩意也是分上高低贵贱了 一生寻求优越感的可怜虫呀👍 https://t.co/fKvxGaqAvL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2103707821875564545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHfHjoakAEW6jQ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2103707839114186752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHfIj2bEAAtEO0.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2103939815934738569",
+        "created_at": "2026-09-26T20:08:36.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T21:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103939815934738569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vincent_ainote…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/vincent_ainotes/status/2103707857464311840",
+              "start": 60,
+              "url": "https://t.co/fKvxGaqAvL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103939815934738569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103707857464311840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本来是没有戾气的 刷一会评论区感觉脑子纹路已经平滑许多\nAI二创的玩意也是分上高低贵贱了 一生寻求优越感的可怜虫呀👍 https://t.co/fKvxGaqAvL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103707821875564545",
+            "3_2103707839114186752"
+          ]
+        },
+        "author_id": "1861449351328854016",
+        "conversation_id": "2103707857464311840",
+        "created_at": "2026-09-26T04:46:52.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T05:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103707857464311840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PG6bVXEeiN",
+              "end": 45,
+              "expanded_url": "https://x.com/Vincent_AINotes/status/2103707857464311840/photo/1",
+              "media_key": "3_2103707821875564545",
+              "start": 22,
+              "url": "https://t.co/PG6bVXEeiN"
+            },
+            {
+              "display_url": "pic.x.com/PG6bVXEeiN",
+              "end": 45,
+              "expanded_url": "https://x.com/Vincent_AINotes/status/2103707857464311840/photo/1",
+              "media_key": "3_2103707839114186752",
+              "start": 22,
+              "url": "https://t.co/PG6bVXEeiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103707857464311840",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103707821875564545"
+          },
+          {
+            "media_key": "3_2103707839114186752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 371925,
+          "like_count": 1607,
+          "quote_count": 19,
+          "reply_count": 238,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "信息茧房有点恐怖了，我从来没有见过左边的😂 https://t.co/PG6bVXEeiN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "@qhqq114514 Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecy3bV"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2103939815934738569",
+        "name": "R·G_X3💤",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7070,
+          "following_count": 226,
+          "like_count": 32738,
+          "listed_count": 21,
+          "media_count": 243,
+          "tweet_count": 1408
+        },
+        "url": "https://t.co/ZLduecy3bV",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-26T16:38:22.000Z",
+        "description": "AI",
+        "id": "1861449351328854016",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103912224842715282",
+        "name": "Vincent",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1861449351328854016/1783144204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010360210008023040/tDA3CwgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58674,
+          "following_count": 363,
+          "like_count": 494,
+          "listed_count": 292,
+          "media_count": 2699,
+          "tweet_count": 10596
+        },
+        "url": "",
+        "username": "Vincent_AINotes",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

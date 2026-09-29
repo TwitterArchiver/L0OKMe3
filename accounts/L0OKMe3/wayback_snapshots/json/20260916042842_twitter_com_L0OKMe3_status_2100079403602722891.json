@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099835925912297472"
+      ],
+      "media_source_tweet_id": [
+        "2099835957193445806"
+      ]
+    },
+    "author_id": "1795072631169044480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100079403602722891",
+    "created_at": "2026-09-16T04:28:42.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T05:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100079403602722891"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 25,
+          "tag": "ranfren"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1836622365918449664",
+          "start": 3,
+          "username": "gonza30_03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b3pxMHqvle",
+          "end": 57,
+          "expanded_url": "https://x.com/gonza30_03/status/2099835957193445806/video/1",
+          "media_key": "13_2099835925912297472",
+          "start": 34,
+          "url": "https://t.co/b3pxMHqvle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100079403602722891",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2099835925912297472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4320
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099835957193445806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gonza30_03: My Time\n #ranfren https://t.co/b3pxMHqvle"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15100,
+        "height": 720,
+        "media_key": "13_2099835925912297472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099835925912297472/img/M1jv0SMBt-4fTKqo.jpg",
+        "public_metrics": {
+          "view_count": 182181
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099835925912297472/vid/avc1/480x270/GuXkTeMBQ8_fomfO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099835925912297472/vid/avc1/640x360/UHlt-XgbqlmjH44I.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099835925912297472/vid/avc1/1280x720/GZN93JYPS186nSD9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099835925912297472/pl/UnRiPYDLbG5BF4t2.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099835925912297472"
+          ],
+          "media_source_tweet_id": [
+            "2099835957193445806"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100079403602722891",
+        "created_at": "2026-09-16T04:28:42.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100079403602722891"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "ranfren"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1836622365918449664",
+              "start": 3,
+              "username": "gonza30_03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b3pxMHqvle",
+              "end": 57,
+              "expanded_url": "https://x.com/gonza30_03/status/2099835957193445806/video/1",
+              "media_key": "13_2099835925912297472",
+              "start": 34,
+              "url": "https://t.co/b3pxMHqvle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100079403602722891",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2099835925912297472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4320
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099835957193445806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gonza30_03: My Time\n #ranfren https://t.co/b3pxMHqvle"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099835925912297472"
+          ]
+        },
+        "author_id": "1836622365918449664",
+        "conversation_id": "2099835957193445806",
+        "created_at": "2026-09-15T12:21:19.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099835957193445806"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "ranfren"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b3pxMHqvle",
+              "end": 41,
+              "expanded_url": "https://x.com/gonza30_03/status/2099835957193445806/video/1",
+              "media_key": "13_2099835925912297472",
+              "start": 18,
+              "url": "https://t.co/b3pxMHqvle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099835957193445806",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2099835925912297472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5619,
+          "impression_count": 340749,
+          "like_count": 22799,
+          "quote_count": 163,
+          "reply_count": 7,
+          "retweet_count": 4320
+        },
+        "reply_settings": "everyone",
+        "text": "My Time\n #ranfren https://t.co/b3pxMHqvle"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2100079403602722891",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7065,
+          "following_count": 225,
+          "like_count": 32541,
+          "listed_count": 21,
+          "media_count": 229,
+          "tweet_count": 1348
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-19T04:24:38.000Z",
+        "description": "18／雑多垢\nほとんど鍵におります(※自我注意)@uuuiuiui5\n\nﾏｼｭﾏﾛhttps://t.co/PkBDfQhvA9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "uuuiuiui5"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/f0o0myqqst6kg4…",
+                "end": 64,
+                "expanded_url": "https://marshmallow-qa.com/f0o0myqqst6kg4c?t=LH2uMI&utm_medium=url_text&utm_source=promotion",
+                "start": 41,
+                "url": "https://t.co/PkBDfQhvA9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCcmJu…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCcmJumRRtUByvcIkxr8uP-w?si=CVJWijTBWwrxMprr",
+                "start": 0,
+                "url": "https://t.co/IULd1rJ2xK"
+              }
+            ]
+          }
+        },
+        "id": "1836622365918449664",
+        "is_identity_verified": false,
+        "location": "未来は僕らの手の中",
+        "most_recent_tweet_id": "2100012717797245054",
+        "name": "ごんざでちゅ´･ω･`🀄",
+        "pinned_tweet_id": "2064714173188333848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836622365918449664/1789481064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099862190547423232/f1Nffx3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 153,
+          "like_count": 823,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 472
+        },
+        "url": "https://t.co/IULd1rJ2xK",
+        "username": "gonza30_03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2101131510950793269",
+    "created_at": "2026-09-19T02:33:10.000Z",
+    "display_text_range": [
+      12,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T03:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101137493609607583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1494691029261320192",
+          "start": 0,
+          "username": "nebulaio17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101137493609607583",
+    "in_reply_to_user_id": "1494691029261320192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101136779298713606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nebulaio17 我不知道是因为我的表达还是你的理解问题 但我想说的是恋爱可以有性 但如果只是以性为目的而非爱的话 你可以去啦啦啦啦的嫖娼啦😝😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2101131510950793269",
+        "created_at": "2026-09-19T02:33:10.000Z",
+        "display_text_range": [
+          12,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T03:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101137493609607583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1494691029261320192",
+              "start": 0,
+              "username": "nebulaio17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101137493609607583",
+        "in_reply_to_user_id": "1494691029261320192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101136779298713606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nebulaio17 我不知道是因为我的表达还是你的理解问题 但我想说的是恋爱可以有性 但如果只是以性为目的而非爱的话 你可以去啦啦啦啦的嫖娼啦😝😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494691029261320192",
+        "conversation_id": "2101131510950793269",
+        "created_at": "2026-09-19T02:30:20.000Z",
+        "display_text_range": [
+          9,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T03:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101136779298713606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "L0OKMe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101136779298713606",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101131510950793269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L0OKMe3 非得把爱和性分开是何意味  本来恋爱观就是有主观性的你对性无感也没必要非得让所有人跟你看齐吧，很多人的恋爱观里面性都是必需品啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2101137493609607583",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7065,
+          "following_count": 224,
+          "like_count": 32583,
+          "listed_count": 21,
+          "media_count": 234,
+          "tweet_count": 1366
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T15:11:36.000Z",
+        "description": "一般路过/真正健全/轻度发病/轻度鉴证/术力口/东方/柚子厨/LGBT友好/小窗随意塞",
+        "id": "1494691029261320192",
+        "is_identity_verified": false,
+        "location": "有頂天",
+        "most_recent_tweet_id": "2101136779298713606",
+        "name": "炘上",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494691029261320192/1672900767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612985846336204802/Ghe9k_UE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 6424,
+          "like_count": 1096,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 2277
+        },
+        "url": "",
+        "username": "nebulaio17",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

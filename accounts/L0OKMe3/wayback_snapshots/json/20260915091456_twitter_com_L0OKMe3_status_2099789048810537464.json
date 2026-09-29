@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2099789048810537464",
+    "created_at": "2026-09-15T09:14:56.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T10:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099789048810537464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rgnytzjl7/stat…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/rgnytzjl7/status/2099052387633918327",
+          "start": 60,
+          "url": "https://t.co/gVzEQfQxQd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099789048810537464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099052387633918327",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的精神洁癖不允许也不接受周围任何人或者重要的朋友出现出轨欺骗的情节\n以及我绝对不会允许自己交到这样的朋友\n我自己也是 https://t.co/gVzEQfQxQd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2099789048810537464",
+        "created_at": "2026-09-15T09:14:56.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099789048810537464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rgnytzjl7/stat…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/rgnytzjl7/status/2099052387633918327",
+              "start": 60,
+              "url": "https://t.co/gVzEQfQxQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099789048810537464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099052387633918327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的精神洁癖不允许也不接受周围任何人或者重要的朋友出现出轨欺骗的情节\n以及我绝对不会允许自己交到这样的朋友\n我自己也是 https://t.co/gVzEQfQxQd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089573464646819840",
+        "conversation_id": "2099052387633918327",
+        "created_at": "2026-09-13T08:27:42.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099052387633918327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099052387633918327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 268923,
+          "like_count": 3898,
+          "quote_count": 19,
+          "reply_count": 325,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "陌生人出轨： 你这贱逼烂屌烂逼婊子\n普通朋友出轨： 牛逼\n好闺蜜出轨： 挺帅呀我操别被发现了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2099789048810537464",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7063,
+          "following_count": 224,
+          "like_count": 32518,
+          "listed_count": 21,
+          "media_count": 229,
+          "tweet_count": 1343
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T04:43:53.000Z",
+        "description": "地球Online玩家/switch\n梦到啥发啥/欢迎入门找我丸\n谢谢你的喜欢/互关随缘",
+        "id": "2089573464646819840",
+        "is_identity_verified": false,
+        "location": "🚪52/88/188",
+        "most_recent_tweet_id": "2099788795705250172",
+        "name": "黑川",
+        "pinned_tweet_id": "2094777697780285848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089573464646819840/1789282736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099316030611070976/55TKR7GC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 16,
+          "like_count": 739,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 427
+        },
+        "url": "",
+        "username": "rgnytzjl7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

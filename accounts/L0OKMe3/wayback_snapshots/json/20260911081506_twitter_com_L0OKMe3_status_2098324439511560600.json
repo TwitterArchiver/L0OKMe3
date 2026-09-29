@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597222604800",
+          "name": "Beauty/Hygiene - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045905094",
+          "name": "Durex"
+        }
+      }
+    ],
+    "conversation_id": "2098324439511560600",
+    "created_at": "2026-09-11T08:15:06.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T09:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098324439511560600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eurofounder/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/eurofounder/status/2098133909967966669",
+          "start": 6,
+          "url": "https://t.co/dMG7yqMvDn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098324439511560600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098133909967966669",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "某人需要它 https://t.co/dMG7yqMvDn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28212,
+        "height": 2560,
+        "media_key": "13_2097298724288438272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097298724288438272/img/-d9ceAIo3tLwyrC1.jpg",
+        "public_metrics": {
+          "view_count": 454917
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097298724288438272/vid/avc1/720x1280/tTLKyrjaouC9Z-AW.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097298724288438272/vid/avc1/320x568/53KM0e1YwCWdFUsQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097298724288438272/vid/avc1/480x852/_hJs4CF4DVJBBOCQ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097298724288438272/vid/avc1/1440x2560/0a2prdggw6vht1uQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097298724288438272/pl/mZTsMBjm1rQIY0W3.m3u8"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222604800",
+              "name": "Beauty/Hygiene - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045905094",
+              "name": "Durex"
+            }
+          }
+        ],
+        "conversation_id": "2098324439511560600",
+        "created_at": "2026-09-11T08:15:06.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098324439511560600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eurofounder/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/eurofounder/status/2098133909967966669",
+              "start": 6,
+              "url": "https://t.co/dMG7yqMvDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098324439511560600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098133909967966669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某人需要它 https://t.co/dMG7yqMvDn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097298724288438272"
+          ]
+        },
+        "author_id": "1982757033347817472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222604800",
+              "name": "Beauty/Hygiene - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045905094",
+              "name": "Durex"
+            }
+          }
+        ],
+        "conversation_id": "2098133909967966669",
+        "created_at": "2026-09-10T19:38:00.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T20:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098133909967966669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KDi00yfXxk",
+              "end": 105,
+              "expanded_url": "https://x.com/eurofounder/status/2098133909967966669/video/1",
+              "media_key": "13_2097298724288438272",
+              "start": 82,
+              "url": "https://t.co/KDi00yfXxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098133909967966669",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097298724288438272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1184,
+          "impression_count": 855390,
+          "like_count": 3780,
+          "quote_count": 169,
+          "reply_count": 287,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: Durex launches a condom designed specifically for the European customer https://t.co/KDi00yfXxk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2098324439511560600",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1788717155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7064,
+          "following_count": 223,
+          "like_count": 32475,
+          "listed_count": 21,
+          "media_count": 221,
+          "tweet_count": 1311
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-27T10:31:53.000Z",
+        "description": "Founder based in the EU • Building GDPR-compliant startups • 7 years in, €7k MRR",
+        "id": "1982757033347817472",
+        "is_identity_verified": false,
+        "location": "European Union",
+        "most_recent_tweet_id": "2098314864259195113",
+        "name": "Matthias Schmidt",
+        "pinned_tweet_id": "1996219118551273491",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982803467744747520/QtzH5zmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107380,
+          "following_count": 234,
+          "like_count": 559,
+          "listed_count": 493,
+          "media_count": 411,
+          "tweet_count": 5192
+        },
+        "url": "",
+        "username": "eurofounder",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

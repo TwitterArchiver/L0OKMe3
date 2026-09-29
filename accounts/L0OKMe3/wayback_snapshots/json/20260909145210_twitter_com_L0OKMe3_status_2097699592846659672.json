@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2097699592846659672",
+    "created_at": "2026-09-09T14:52:10.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097699592846659672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moremoreagain/…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/moremoreagain/status/2097680518548795439",
+          "start": 45,
+          "url": "https://t.co/C53ZRTcYbl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097699592846659672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097680518548795439",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明天是教师节，转我100块钱，我会成为你的恋爱导师，手把手教你怎么谈恋爱，不脱单退50% https://t.co/C53ZRTcYbl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2097699592846659672",
+        "created_at": "2026-09-09T14:52:10.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097699592846659672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moremoreagain/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/moremoreagain/status/2097680518548795439",
+              "start": 45,
+              "url": "https://t.co/C53ZRTcYbl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097699592846659672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097680518548795439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明天是教师节，转我100块钱，我会成为你的恋爱导师，手把手教你怎么谈恋爱，不脱单退50% https://t.co/C53ZRTcYbl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933126466666496",
+        "conversation_id": "2097680518548795439",
+        "created_at": "2026-09-09T13:36:23.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097680518548795439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097680518548795439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天是教师节，转我100块钱，我会成为你的恋爱导师，手把手教你怎么谈恋爱，不脱单退50%"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2097699592846659672",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1788717155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7059,
+          "following_count": 223,
+          "like_count": 32465,
+          "listed_count": 20,
+          "media_count": 219,
+          "tweet_count": 1302
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "轻薄欢谑｜自诩为非自愿圣人｜审判我的一个就够｜中正平和｜最尊重零糖饮料之人｜没关系我不在乎｜\n\n置顶里有个码，感兴趣可以扫一下试试（？",
+        "id": "1862933126466666496",
+        "is_identity_verified": false,
+        "location": "上阙",
+        "most_recent_tweet_id": "2097692249488490629",
+        "name": "相公痴",
+        "pinned_tweet_id": "2041380219974787240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862933126466666496/1733106559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936741037256404992/tkBYioIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 1125,
+          "like_count": 80293,
+          "listed_count": 4,
+          "media_count": 1800,
+          "tweet_count": 40223
+        },
+        "url": "",
+        "username": "moremoreagain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2097389310274421021",
+    "created_at": "2026-09-11T02:39:38.000Z",
+    "display_text_range": [
+      27,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T03:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098240016547975193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802884729412161537",
+          "start": 0,
+          "username": "Realze4ever"
+        },
+        {
+          "end": 26,
+          "id": "1769078117052854272",
+          "start": 13,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098240016547975193",
+    "in_reply_to_user_id": "1802884729412161537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098097369925685476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Realze4ever @huahuojiang_ 隐居"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2097389310274421021",
+        "created_at": "2026-09-11T02:39:38.000Z",
+        "display_text_range": [
+          27,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T03:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098240016547975193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802884729412161537",
+              "start": 0,
+              "username": "Realze4ever"
+            },
+            {
+              "end": 26,
+              "id": "1769078117052854272",
+              "start": 13,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098240016547975193",
+        "in_reply_to_user_id": "1802884729412161537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098097369925685476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Realze4ever @huahuojiang_ 隐居"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802884729412161537",
+        "conversation_id": "2097389310274421021",
+        "created_at": "2026-09-10T17:12:48.000Z",
+        "display_text_range": [
+          23,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098097369925685476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "L0OKMe3"
+            },
+            {
+              "end": 22,
+              "id": "1769078117052854272",
+              "start": 9,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098097369925685476",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097687886909063371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L0OKMe3 @huahuojiang_ 七月还活着吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2098240016547975193",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1788717155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7061,
+          "following_count": 223,
+          "like_count": 32460,
+          "listed_count": 21,
+          "media_count": 220,
+          "tweet_count": 1305
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-06-18T02:03:20.000Z",
+        "description": "里世界 @realse4ever /化合物 @kgdyodyi/新互fo寻找中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "realse4ever"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "kgdyodyi"
+              }
+            ]
+          }
+        },
+        "id": "1802884729412161537",
+        "is_identity_verified": false,
+        "location": "on my way",
+        "most_recent_tweet_id": "2098097517078663417",
+        "name": "Realze",
+        "pinned_tweet_id": "2091197184058491043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1802884729412161537/1733926324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054607178653372416/CGGleL40_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 260,
+          "like_count": 216018,
+          "listed_count": 5,
+          "media_count": 383,
+          "tweet_count": 12136
+        },
+        "url": "",
+        "username": "Realze4ever",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "is_identity_verified": false,
+        "location": "匹诺康尼",
+        "most_recent_tweet_id": "2098206518000927111",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2097080970256261398",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769078117052854272/1774973744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7833,
+          "following_count": 3950,
+          "like_count": 105521,
+          "listed_count": 18,
+          "media_count": 9981,
+          "tweet_count": 107214
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

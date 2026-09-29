@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2098090858746921465",
+    "created_at": "2026-09-11T04:55:57.000Z",
+    "display_text_range": [
+      8,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T05:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098274323744305225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1628175833235062786",
+          "start": 0,
+          "username": "OvoHei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098274323744305225",
+    "in_reply_to_user_id": "1628175833235062786",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098245803819287009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvoHei 我也不知道（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2098090858746921465",
+        "created_at": "2026-09-11T04:55:57.000Z",
+        "display_text_range": [
+          8,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098274323744305225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1628175833235062786",
+              "start": 0,
+              "username": "OvoHei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098274323744305225",
+        "in_reply_to_user_id": "1628175833235062786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098245803819287009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvoHei 我也不知道（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628175833235062786",
+        "conversation_id": "2098090858746921465",
+        "created_at": "2026-09-11T03:02:37.000Z",
+        "display_text_range": [
+          9,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T04:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098245803819287009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "L0OKMe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098245803819287009",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098090858746921465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L0OKMe3 是有发生什么了吗？我刷到的一些外国女同贴都再说中国女同的知识很有用哦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2098274323744305225",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1788717155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7062,
+          "following_count": 223,
+          "like_count": 32470,
+          "listed_count": 21,
+          "media_count": 220,
+          "tweet_count": 1306
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-21T23:32:52.000Z",
+        "description": "",
+        "id": "1628175833235062786",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098263205277814985",
+        "name": "星河OVO",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088496851855265792/QxC1Ymm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 120,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 386
+        },
+        "url": "",
+        "username": "OvoHei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

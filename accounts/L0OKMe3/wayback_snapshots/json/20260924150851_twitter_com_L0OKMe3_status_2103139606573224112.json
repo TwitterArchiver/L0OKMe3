@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103139589603094528",
+        "3_2103139589578014720"
+      ]
+    },
+    "author_id": "1795072631169044480",
+    "conversation_id": "2103139606573224112",
+    "created_at": "2026-09-24T15:08:51.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T16:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103139606573224112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hLSXYkvJzM",
+          "end": 95,
+          "expanded_url": "https://x.com/L0OKMe3/status/2103139606573224112/photo/1",
+          "media_key": "3_2103139589603094528",
+          "start": 72,
+          "url": "https://t.co/hLSXYkvJzM"
+        },
+        {
+          "display_url": "pic.x.com/hLSXYkvJzM",
+          "end": 95,
+          "expanded_url": "https://x.com/L0OKMe3/status/2103139606573224112/photo/1",
+          "media_key": "3_2103139589578014720",
+          "start": 72,
+          "url": "https://t.co/hLSXYkvJzM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103139606573224112",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103139589603094528"
+      },
+      {
+        "media_key": "3_2103139589578014720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的宝藏在她生日的时候给我准备了一大包礼物 其中还有一个布娃娃 我真的非常喜欢🥹\n说真的 我给她准备的生日礼物我都多少有些不好意思拿出来了。。 https://t.co/hLSXYkvJzM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103139589603094528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_aUFdacAAQqUg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103139589578014720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_aUFXbwAAYLEp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103139589603094528",
+            "3_2103139589578014720"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "2103139606573224112",
+        "created_at": "2026-09-24T15:08:51.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103139606573224112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLSXYkvJzM",
+              "end": 95,
+              "expanded_url": "https://x.com/L0OKMe3/status/2103139606573224112/photo/1",
+              "media_key": "3_2103139589603094528",
+              "start": 72,
+              "url": "https://t.co/hLSXYkvJzM"
+            },
+            {
+              "display_url": "pic.x.com/hLSXYkvJzM",
+              "end": 95,
+              "expanded_url": "https://x.com/L0OKMe3/status/2103139606573224112/photo/1",
+              "media_key": "3_2103139589578014720",
+              "start": 72,
+              "url": "https://t.co/hLSXYkvJzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103139606573224112",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103139589603094528"
+          },
+          {
+            "media_key": "3_2103139589578014720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的宝藏在她生日的时候给我准备了一大包礼物 其中还有一个布娃娃 我真的非常喜欢🥹\n说真的 我给她准备的生日礼物我都多少有些不好意思拿出来了。。 https://t.co/hLSXYkvJzM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "@qhqq114514 Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecy3bV"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2103139606573224112",
+        "name": "R·G_X3💤",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7073,
+          "following_count": 226,
+          "like_count": 32740,
+          "listed_count": 21,
+          "media_count": 242,
+          "tweet_count": 1400
+        },
+        "url": "https://t.co/ZLduecy3bV",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

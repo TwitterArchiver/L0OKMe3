@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2101968496175595567",
+    "created_at": "2026-09-21T12:00:06.000Z",
+    "display_text_range": [
+      9,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T13:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102004943230230562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1631638629452861440",
+          "start": 0,
+          "username": "SBR0623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102004943230230562",
+    "in_reply_to_user_id": "1631638629452861440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101968496175595567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SBR0623 有朝一日👏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2101968496175595567",
+        "created_at": "2026-09-21T12:00:06.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T13:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102004943230230562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1631638629452861440",
+              "start": 0,
+              "username": "SBR0623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102004943230230562",
+        "in_reply_to_user_id": "1631638629452861440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101968496175595567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SBR0623 有朝一日👏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631638629452861440",
+        "conversation_id": "2101968496175595567",
+        "created_at": "2026-09-21T09:35:16.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101968496175595567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/soch49512511/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/soch49512511/status/2101622025609712044",
+              "start": 12,
+              "url": "https://t.co/ZRhzw73L1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101968496175595567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101622025609712044",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以，我是什么东西。？ https://t.co/ZRhzw73L1o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "@qhqq114514 Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecy3bV"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2102004943230230562",
+        "name": "R·G_X3💤",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7081,
+          "following_count": 227,
+          "like_count": 32705,
+          "listed_count": 21,
+          "media_count": 238,
+          "tweet_count": 1389
+        },
+        "url": "https://t.co/ZLduecy3bV",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-03T12:52:30.000Z",
+        "description": "我是玉，无性别，搞同人和算命的。\n接算命/算卦。\n所得收入全补贴家用以及慈善事业。\n问卦50起，🚪88/520 口令红包赞赏码都可以，入门可免费问卦，卦金的一部分将用于慈善事业。\n也接英雄联盟陪玩 需要的直接私信我",
+        "id": "1631638629452861440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101968496175595567",
+        "name": "白上月泉一枝花",
+        "pinned_tweet_id": "1976564275763347727",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1631638629452861440/1773732126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088349676785528832/DQOQVofy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7473,
+          "following_count": 2062,
+          "like_count": 57913,
+          "listed_count": 22,
+          "media_count": 36,
+          "tweet_count": 1144
+        },
+        "url": "",
+        "username": "SBR0623",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

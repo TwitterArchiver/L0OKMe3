@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2089026176966615040",
+    "conversation_id": "2098660877109207241",
+    "created_at": "2026-09-12T10:43:25.000Z",
+    "display_text_range": [
+      9,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T11:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098724156187570649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "L0OKMe3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098724156187570649",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098660877109207241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L0OKMe3 应该没人比我玩的开了吧🍑🫰我福不黑不信你看"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [2089026176966615040].",
+      "parameter": "author_id",
+      "resource_id": "2089026176966615040",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2089026176966615040"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1908,
+        "media_key": "3_2098660867533606912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_w8JlakAACzpZ.jpg",
+        "width": 1141
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089026176966615040",
+        "conversation_id": "2098660877109207241",
+        "created_at": "2026-09-12T10:43:25.000Z",
+        "display_text_range": [
+          9,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T11:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098724156187570649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "L0OKMe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098724156187570649",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098660877109207241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L0OKMe3 应该没人比我玩的开了吧🍑🫰我福不黑不信你看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098660867533606912"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "2098660877109207241",
+        "created_at": "2026-09-12T06:31:58.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098660877109207241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRthhTawML",
+              "end": 45,
+              "expanded_url": "https://x.com/L0OKMe3/status/2098660877109207241/photo/1",
+              "media_key": "3_2098660867533606912",
+              "start": 22,
+              "url": "https://t.co/tRthhTawML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098660877109207241",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098660867533606912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 600,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师这个职业总是给我一会天堂一会地狱的感觉 https://t.co/tRthhTawML"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2098660877109207241",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7074,
+          "following_count": 224,
+          "like_count": 32467,
+          "listed_count": 21,
+          "media_count": 221,
+          "tweet_count": 1317
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

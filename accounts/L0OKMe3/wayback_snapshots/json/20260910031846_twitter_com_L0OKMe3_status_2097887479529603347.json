@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2097707525726454011",
+    "created_at": "2026-09-10T03:18:46.000Z",
+    "display_text_range": [
+      13,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T04:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097887479529603347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829195018311282688",
+          "start": 0,
+          "username": "Salena_w_SS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097887479529603347",
+    "in_reply_to_user_id": "1829195018311282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097707525726454011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Salena_w_SS 咋回事 不过我难受没地方诉说的时候也是疯狂写日记😂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2097707525726454011].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2097707525726454011",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2097707525726454011"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2097707525726454011",
+        "created_at": "2026-09-10T03:18:46.000Z",
+        "display_text_range": [
+          13,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T04:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097887479529603347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829195018311282688",
+              "start": 0,
+              "username": "Salena_w_SS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097887479529603347",
+        "in_reply_to_user_id": "1829195018311282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097707525726454011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Salena_w_SS 咋回事 不过我难受没地方诉说的时候也是疯狂写日记😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2097887479529603347",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1788717155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7061,
+          "following_count": 223,
+          "like_count": 32471,
+          "listed_count": 21,
+          "media_count": 219,
+          "tweet_count": 1303
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-29T16:31:02.000Z",
+        "description": "Rainy rainy days",
+        "id": "1829195018311282688",
+        "is_identity_verified": false,
+        "location": "Wherever",
+        "most_recent_tweet_id": "2062065169627496763",
+        "name": "紗理奈",
+        "pinned_tweet_id": "1976967465390489795",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829195018311282688/1780381180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061694217215213568/16owMB_u_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 108,
+          "like_count": 4676,
+          "listed_count": 0,
+          "media_count": 352,
+          "tweet_count": 4275
+        },
+        "url": "",
+        "username": "Salena_w_SS",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2099671455063490920",
+    "created_at": "2026-09-15T08:02:54.000Z",
+    "display_text_range": [
+      16,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T09:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099770921372545292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814042600380272640",
+          "start": 0,
+          "username": "Gh0stlyEclipse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099770921372545292",
+    "in_reply_to_user_id": "1814042600380272640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099671455063490920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gh0stlyEclipse 敬二不丑😭敬二不丑😭敬二是最帅气的警察叔叔😭😭😭敬二不丑😭敬二叔叔最帅气了😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 390,
+        "media_key": "3_2099671449946509312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOIDycXUAAzj8J.jpg",
+        "width": 341
+      },
+      {
+        "height": 670,
+        "media_key": "3_2099671449963233281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOIDygWgAELiUZ.jpg",
+        "width": 540
+      },
+      {
+        "height": 456,
+        "media_key": "3_2099671449980030976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOIDykW0AARBjF.jpg",
+        "width": 309
+      },
+      {
+        "height": 546,
+        "media_key": "3_2099671449979990017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOIDykWMAEC-Va.jpg",
+        "width": 638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2099671455063490920",
+        "created_at": "2026-09-15T08:02:54.000Z",
+        "display_text_range": [
+          16,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T09:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099770921372545292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814042600380272640",
+              "start": 0,
+              "username": "Gh0stlyEclipse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099770921372545292",
+        "in_reply_to_user_id": "1814042600380272640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099671455063490920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gh0stlyEclipse 敬二不丑😭敬二不丑😭敬二是最帅气的警察叔叔😭😭😭敬二不丑😭敬二叔叔最帅气了😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099671449946509312",
+            "3_2099671449963233281",
+            "3_2099671449980030976",
+            "3_2099671449979990017"
+          ]
+        },
+        "author_id": "1814042600380272640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          }
+        ],
+        "conversation_id": "2099671455063490920",
+        "created_at": "2026-09-15T01:27:39.000Z",
+        "display_text_range": [
+          0,
+          237
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T02:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099671455063490920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MmCOXSnRe",
+              "end": 261,
+              "expanded_url": "https://x.com/Gh0stlyEclipse/status/2099671455063490920/photo/1",
+              "media_key": "3_2099671449946509312",
+              "start": 238,
+              "url": "https://t.co/6MmCOXSnRe"
+            },
+            {
+              "display_url": "pic.x.com/6MmCOXSnRe",
+              "end": 261,
+              "expanded_url": "https://x.com/Gh0stlyEclipse/status/2099671455063490920/photo/1",
+              "media_key": "3_2099671449963233281",
+              "start": 238,
+              "url": "https://t.co/6MmCOXSnRe"
+            },
+            {
+              "display_url": "pic.x.com/6MmCOXSnRe",
+              "end": 261,
+              "expanded_url": "https://x.com/Gh0stlyEclipse/status/2099671455063490920/photo/1",
+              "media_key": "3_2099671449980030976",
+              "start": 238,
+              "url": "https://t.co/6MmCOXSnRe"
+            },
+            {
+              "display_url": "pic.x.com/6MmCOXSnRe",
+              "end": 261,
+              "expanded_url": "https://x.com/Gh0stlyEclipse/status/2099671455063490920/photo/1",
+              "media_key": "3_2099671449979990017",
+              "start": 238,
+              "url": "https://t.co/6MmCOXSnRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099671455063490920",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099671449946509312"
+          },
+          {
+            "media_key": "3_2099671449963233281"
+          },
+          {
+            "media_key": "3_2099671449980030976"
+          },
+          {
+            "media_key": "3_2099671449979990017"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 2543,
+          "like_count": 258,
+          "quote_count": 10,
+          "reply_count": 4,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "i’m so glad yttd has characters that are allowed to be ugly. i feel like visual novel characters are expected to be jaw-droppingly gorgeous and it doesn’t necessarily reflect the real world. thank you keiji shinogi for the representation https://t.co/6MmCOXSnRe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2099770921372545292",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7065,
+          "following_count": 224,
+          "like_count": 32512,
+          "listed_count": 21,
+          "media_count": 229,
+          "tweet_count": 1342
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T21:00:42.000Z",
+        "description": "AuDHD | 16 | she/they | AroAce | i draw sometimes | multishipper! | proshippers DNI please | currently hyperfixated on yttd! | shy… •banner by @_ff9900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 143,
+                "username": "_ff9900"
+              }
+            ]
+          }
+        },
+        "id": "1814042600380272640",
+        "is_identity_verified": false,
+        "location": "im lwk kagehara irl",
+        "most_recent_tweet_id": "2099696808872030610",
+        "name": "☆Spook! 🎲",
+        "pinned_tweet_id": "1971631476438716729",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814042600380272640/1784766876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092019855453016064/d_i-N9mp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 817,
+          "like_count": 26767,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 1772
+        },
+        "url": "",
+        "username": "Gh0stlyEclipse",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

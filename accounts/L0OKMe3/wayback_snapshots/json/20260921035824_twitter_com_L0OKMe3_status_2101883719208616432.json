@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2101202690953097560",
+    "created_at": "2026-09-21T03:58:24.000Z",
+    "display_text_range": [
+      14,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T04:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101883719208616432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1182043988901056512",
+          "start": 0,
+          "username": "soch49512511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101883719208616432",
+    "in_reply_to_user_id": "1182043988901056512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101622025609712044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soch49512511 可是宝宝我和祂只是友好互fo的关系呀🥺❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1563,
+        "media_key": "3_2101622008291405824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSp2FOhaMAAdHR5.jpg",
+        "width": 1340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2101202690953097560",
+        "created_at": "2026-09-21T03:58:24.000Z",
+        "display_text_range": [
+          14,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T04:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101883719208616432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1182043988901056512",
+              "start": 0,
+              "username": "soch49512511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101883719208616432",
+        "in_reply_to_user_id": "1182043988901056512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101622025609712044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soch49512511 可是宝宝我和祂只是友好互fo的关系呀🥺❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101622008291405824"
+          ]
+        },
+        "author_id": "1182043988901056512",
+        "conversation_id": "2101202690953097560",
+        "created_at": "2026-09-20T10:38:31.000Z",
+        "display_text_range": [
+          9,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101622025609712044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "L0OKMe3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rwua6Zbwkx",
+              "end": 82,
+              "expanded_url": "https://x.com/soch49512511/status/2101622025609712044/photo/1",
+              "media_key": "3_2101622008291405824",
+              "start": 59,
+              "url": "https://t.co/Rwua6Zbwkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101622025609712044",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101622008291405824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 452,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101202690953097560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L0OKMe3 龟男自己性压抑，就不用投射在别人身上了。\n我看推上反女权的博主，没一个像你们这样关注这些渴逼的玩意 https://t.co/Rwua6Zbwkx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "@qhqq114514 Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecy3bV"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2101883719208616432",
+        "name": "R·G💤",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7079,
+          "following_count": 227,
+          "like_count": 32686,
+          "listed_count": 21,
+          "media_count": 236,
+          "tweet_count": 1382
+        },
+        "url": "https://t.co/ZLduecy3bV",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-09T21:23:53.000Z",
+        "description": "",
+        "id": "1182043988901056512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101808820163166248",
+        "name": "soch",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1418833179599904769/hlvy5MnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 274,
+          "like_count": 9005,
+          "listed_count": 2,
+          "media_count": 586,
+          "tweet_count": 3359
+        },
+        "url": "",
+        "username": "soch49512511",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

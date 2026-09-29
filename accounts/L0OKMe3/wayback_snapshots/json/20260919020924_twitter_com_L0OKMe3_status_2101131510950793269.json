@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2101131510950793269",
+    "created_at": "2026-09-19T02:09:24.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T03:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101131510950793269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ranovo_rain/st…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/ranovo_rain/status/2100771745955471777",
+          "start": 87,
+          "url": "https://t.co/uL3UGCAiNx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101131510950793269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100771745955471777",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我被评论区吓哭了 谈恋爱如果只是为了操逼为什么不去嫖娼呢 因为嫖娼要花钱而谈恋爱是免费的吗？我还以为谈恋爱是以爱对方为基础性生活只是调味品 原来谈恋爱只是可以免费操逼呀哈哈 https://t.co/uL3UGCAiNx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2101131510950793269",
+        "created_at": "2026-09-19T02:09:24.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T03:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101131510950793269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ranovo_rain/st…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/ranovo_rain/status/2100771745955471777",
+              "start": 87,
+              "url": "https://t.co/uL3UGCAiNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101131510950793269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100771745955471777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我被评论区吓哭了 谈恋爱如果只是为了操逼为什么不去嫖娼呢 因为嫖娼要花钱而谈恋爱是免费的吗？我还以为谈恋爱是以爱对方为基础性生活只是调味品 原来谈恋爱只是可以免费操逼呀哈哈 https://t.co/uL3UGCAiNx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889543940183040004",
+        "conversation_id": "2100771745955471777",
+        "created_at": "2026-09-18T02:19:49.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100771745955471777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100771745955471777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 615133,
+          "like_count": 4824,
+          "quote_count": 23,
+          "reply_count": 965,
+          "retweet_count": 327
+        },
+        "reply_settings": "everyone",
+        "text": "女朋友是拿来宠的 不是拿来操的 你要是为了操逼谈女朋友 你妈也有逼 怎么不去操你妈逼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2101131510950793269",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7066,
+          "following_count": 225,
+          "like_count": 32577,
+          "listed_count": 21,
+          "media_count": 234,
+          "tweet_count": 1362
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-12T05:16:05.000Z",
+        "description": "/rr 无🚪不扩列",
+        "id": "1889543940183040004",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2101130406859059406",
+        "name": "r r",
+        "pinned_tweet_id": "2098888866723987647",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889543940183040004/1769259530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097417445497872384/mt1DQqZR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8721,
+          "following_count": 78,
+          "like_count": 1106,
+          "listed_count": 28,
+          "media_count": 45,
+          "tweet_count": 831
+        },
+        "url": "",
+        "username": "ranovo_rain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

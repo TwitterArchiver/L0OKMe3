@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2101211594378346830",
+    "created_at": "2026-09-19T07:27:37.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T08:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101211594378346830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/waka_skincare/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/waka_skincare/status/2100147689447104714",
+          "start": 11,
+          "url": "https://t.co/AWjA7WH8ML"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101211594378346830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100147689447104714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日本营销号全体死全家 https://t.co/AWjA7WH8ML"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2100102225981046784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUP2QObgAAW3f1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2101211594378346830",
+        "created_at": "2026-09-19T07:27:37.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101211594378346830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/waka_skincare/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/waka_skincare/status/2100147689447104714",
+              "start": 11,
+              "url": "https://t.co/AWjA7WH8ML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101211594378346830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100147689447104714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本营销号全体死全家 https://t.co/AWjA7WH8ML"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100102225981046784"
+          ]
+        },
+        "author_id": "1653017403880787970",
+        "conversation_id": "2100147689447104714",
+        "created_at": "2026-09-16T09:00:02.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100147689447104714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MjuI3JneT",
+              "end": 44,
+              "expanded_url": "https://x.com/waka_skincare/status/2100147689447104714/photo/1",
+              "media_key": "3_2100102225981046784",
+              "start": 21,
+              "url": "https://t.co/5MjuI3JneT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100147689447104714",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100102225981046784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 931,
+          "impression_count": 2998744,
+          "like_count": 3442,
+          "quote_count": 657,
+          "reply_count": 183,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "将来、人生勝ち組になってそうなのは何番？ https://t.co/5MjuI3JneT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2101211594378346830",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7068,
+          "following_count": 225,
+          "like_count": 32623,
+          "listed_count": 21,
+          "media_count": 234,
+          "tweet_count": 1373
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-01T12:44:26.000Z",
+        "description": "9割の人が知らない”健康と美容”の知識を発信/美肌への近道は「習慣」と「正しい知識」でした🌿「なんとなく」のケアを卒業して、ヨジャドルのようになりたい人へ/役立つ美容・健康ハックがわかります/お仕事の依頼はDMまで",
+        "id": "1653017403880787970",
+        "is_identity_verified": false,
+        "location": "Amazonアソシエイト参加中",
+        "most_recent_tweet_id": "2101157123354923159",
+        "name": "わか|健康×美容",
+        "pinned_tweet_id": "2081303559346561459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653017403880787970/1770072903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018328637813272576/GxkAbrUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80731,
+          "following_count": 500,
+          "like_count": 122728,
+          "listed_count": 98,
+          "media_count": 1533,
+          "tweet_count": 110422
+        },
+        "url": "",
+        "username": "waka_skincare",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2101131510950793269",
+    "created_at": "2026-09-19T05:53:36.000Z",
+    "display_text_range": [
+      12,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T06:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101187935098093674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1494691029261320192",
+          "start": 0,
+          "username": "nebulaio17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101187935098093674",
+    "in_reply_to_user_id": "1494691029261320192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101139627885424703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nebulaio17 原文：“你要是为了操逼（而）谈女朋友” 加上而你可以这样理解 而且我这个转帖貌似是回应评论区 从头到尾没有否定性行为 而是对恋爱只奔着性无爱的想法进行抨击🤔 所以你貌似很聪明呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2101131510950793269",
+        "created_at": "2026-09-19T05:53:36.000Z",
+        "display_text_range": [
+          12,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T06:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101187935098093674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1494691029261320192",
+              "start": 0,
+              "username": "nebulaio17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101187935098093674",
+        "in_reply_to_user_id": "1494691029261320192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101139627885424703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nebulaio17 原文：“你要是为了操逼（而）谈女朋友” 加上而你可以这样理解 而且我这个转帖貌似是回应评论区 从头到尾没有否定性行为 而是对恋爱只奔着性无爱的想法进行抨击🤔 所以你貌似很聪明呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494691029261320192",
+        "conversation_id": "2101131510950793269",
+        "created_at": "2026-09-19T02:41:39.000Z",
+        "display_text_range": [
+          9,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T03:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101139627885424703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "L0OKMe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101139627885424703",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101137493609607583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L0OKMe3 你转发的推文原意本来就是否定性行为的啊  这和你有什么关联呢？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2101187935098093674",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7067,
+          "following_count": 225,
+          "like_count": 32591,
+          "listed_count": 21,
+          "media_count": 234,
+          "tweet_count": 1367
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T15:11:36.000Z",
+        "description": "一般路过/真正健全/轻度发病/轻度鉴证/术力口/东方/柚子厨/LGBT友好/小窗随意塞",
+        "id": "1494691029261320192",
+        "is_identity_verified": false,
+        "location": "有頂天",
+        "most_recent_tweet_id": "2101139627885424703",
+        "name": "炘上",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494691029261320192/1672900767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612985846336204802/Ghe9k_UE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 6423,
+          "like_count": 1096,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 2278
+        },
+        "url": "",
+        "username": "nebulaio17",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

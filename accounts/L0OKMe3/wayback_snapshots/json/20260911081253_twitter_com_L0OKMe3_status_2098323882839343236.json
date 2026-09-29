@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2098323882839343236",
+    "created_at": "2026-09-11T08:12:53.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T09:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098323882839343236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014366852407869440",
+          "start": 3,
+          "username": "Jamon_agotado"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098323882839343236",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098286247215026514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jamon_agotado: Primera vez que me explota un tweet sin ser funado, gracias Japón, para mi nunca serás cagada ♥️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2098323882839343236",
+        "created_at": "2026-09-11T08:12:53.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098323882839343236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2014366852407869440",
+              "start": 3,
+              "username": "Jamon_agotado"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098323882839343236",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098286247215026514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jamon_agotado: Primera vez que me explota un tweet sin ser funado, gracias Japón, para mi nunca serás cagada ♥️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014366852407869440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2098132960830423474",
+        "created_at": "2026-09-11T05:43:20.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T06:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098286247215026514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098286247215026514",
+        "in_reply_to_user_id": "2014366852407869440",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11072,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098132960830423474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Primera vez que me explota un tweet sin ser funado, gracias Japón, para mi nunca serás cagada ♥️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2098323882839343236",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1788717155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7064,
+          "following_count": 223,
+          "like_count": 32474,
+          "listed_count": 21,
+          "media_count": 221,
+          "tweet_count": 1310
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-22T15:57:44.000Z",
+        "description": "Joven sensitivo, gay con novia 🐈",
+        "id": "2014366852407869440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098294583838888039",
+        "name": "Jamón de pata blanca",
+        "pinned_tweet_id": "2016205782920917035",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014366852407869440/1769543431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014367290892984320/E6Dy8lfc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 736,
+          "like_count": 32005,
+          "listed_count": 0,
+          "media_count": 484,
+          "tweet_count": 19926
+        },
+        "url": "",
+        "username": "Jamon_agotado",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

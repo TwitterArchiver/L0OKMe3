@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102605969436168192",
+        "3_2102605969436155904"
+      ]
+    },
+    "author_id": "1795072631169044480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2102605979569516563",
+    "created_at": "2026-09-23T03:48:24.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T04:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102605979569516563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kebUB0rNVM",
+          "end": 49,
+          "expanded_url": "https://x.com/L0OKMe3/status/2102605979569516563/photo/1",
+          "media_key": "3_2102605969436168192",
+          "start": 26,
+          "url": "https://t.co/kebUB0rNVM"
+        },
+        {
+          "display_url": "pic.x.com/kebUB0rNVM",
+          "end": 49,
+          "expanded_url": "https://x.com/L0OKMe3/status/2102605979569516563/photo/1",
+          "media_key": "3_2102605969436155904",
+          "start": 26,
+          "url": "https://t.co/kebUB0rNVM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102605979569516563",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102605969436168192"
+      },
+      {
+        "media_key": "3_2102605969436155904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真要爱上我同桌了❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥 https://t.co/kebUB0rNVM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2102605969436168192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS30_Tbb0AAPGCE.jpg",
+        "width": 1014
+      },
+      {
+        "height": 2006,
+        "media_key": "3_2102605969436155904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS30_TbboAAqgZU.jpg",
+        "width": 981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102605969436168192",
+            "3_2102605969436155904"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102605979569516563",
+        "created_at": "2026-09-23T03:48:24.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T04:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102605979569516563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kebUB0rNVM",
+              "end": 49,
+              "expanded_url": "https://x.com/L0OKMe3/status/2102605979569516563/photo/1",
+              "media_key": "3_2102605969436168192",
+              "start": 26,
+              "url": "https://t.co/kebUB0rNVM"
+            },
+            {
+              "display_url": "pic.x.com/kebUB0rNVM",
+              "end": 49,
+              "expanded_url": "https://x.com/L0OKMe3/status/2102605979569516563/photo/1",
+              "media_key": "3_2102605969436155904",
+              "start": 26,
+              "url": "https://t.co/kebUB0rNVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102605979569516563",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102605969436168192"
+          },
+          {
+            "media_key": "3_2102605969436155904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真要爱上我同桌了❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥 https://t.co/kebUB0rNVM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "@qhqq114514 Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecy3bV"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2102605979569516563",
+        "name": "R·G_X3💤",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7079,
+          "following_count": 228,
+          "like_count": 32728,
+          "listed_count": 21,
+          "media_count": 240,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/ZLduecy3bV",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

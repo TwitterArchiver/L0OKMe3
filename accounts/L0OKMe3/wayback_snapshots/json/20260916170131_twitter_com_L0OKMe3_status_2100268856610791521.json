@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2100268856610791521",
+    "created_at": "2026-09-16T17:01:31.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T18:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100268856610791521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1853537682510565376",
+          "start": 3,
+          "username": "IGotLocked13"
+        },
+        {
+          "end": 29,
+          "id": "1929714182578212864",
+          "start": 18,
+          "username": "Cadyshaun1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100268856610791521",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099967623924514928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IGotLocked13: @Cadyshaun1 Overcompensating because they know they're not"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2100268856610791521",
+        "created_at": "2026-09-16T17:01:31.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100268856610791521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853537682510565376",
+              "start": 3,
+              "username": "IGotLocked13"
+            },
+            {
+              "end": 29,
+              "id": "1929714182578212864",
+              "start": 18,
+              "username": "Cadyshaun1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100268856610791521",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099967623924514928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IGotLocked13: @Cadyshaun1 Overcompensating because they know they're not"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853537682510565376",
+        "conversation_id": "2099967108599996608",
+        "created_at": "2026-09-15T21:04:31.000Z",
+        "display_text_range": [
+          12,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T22:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099967623924514928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929714182578212864",
+              "start": 0,
+              "username": "Cadyshaun1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099967623924514928",
+        "in_reply_to_user_id": "1929714182578212864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 81006,
+          "like_count": 3464,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099967108599996608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cadyshaun1 Overcompensating because they know they're not"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2100268856610791521",
+        "name": "R·G",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7060,
+          "following_count": 226,
+          "like_count": 32569,
+          "listed_count": 21,
+          "media_count": 232,
+          "tweet_count": 1357
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-04T20:40:01.000Z",
+        "description": "Japanese learner, localization hater, fairy lover.\n\nReading: グリザイアの果実/面影レイルバック",
+        "id": "1853537682510565376",
+        "is_identity_verified": false,
+        "location": "Scorched Remains of the UK",
+        "most_recent_tweet_id": "2100267805136613656",
+        "name": "Junkball | イギリス人",
+        "pinned_tweet_id": "1992326550826734056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853537682510565376/1740574448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009454017160552448/TNrRJhYE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4721,
+          "following_count": 1405,
+          "like_count": 52842,
+          "listed_count": 22,
+          "media_count": 3547,
+          "tweet_count": 33647
+        },
+        "url": "",
+        "username": "IGotLocked13",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T01:38:17.000Z",
+        "description": "21 / Latina / Gender critical / Anime enjoyer / Opinions are my own and you're free to disagree",
+        "id": "1929714182578212864",
+        "is_identity_verified": false,
+        "location": "USA",
+        "most_recent_tweet_id": "2100254337763299829",
+        "name": "Cady",
+        "pinned_tweet_id": "1990864486857912701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929714182578212864/1749526068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932277676942974976/afq2LhY5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 510,
+          "like_count": 41716,
+          "listed_count": 14,
+          "media_count": 313,
+          "tweet_count": 3701
+        },
+        "url": "",
+        "username": "Cadyshaun1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
