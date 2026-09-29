@@ -1,11 +1,20 @@
 {
-  "name": "R·G",
+  "name": "R·G_X3💤",
   "username": "@L0OKMe3",
-  "bio": "Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+  "bio": "@qhqq114514 Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
   "location": "失傳媒體",
   "link": "https://ngl.link/duoduofuo",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "1841674811069825079",
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2096646211239636993/svAoXTg1_normal.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 11,
+        "start": 0,
+        "username": "qhqq114514"
+      }
+    ]
+  }
 }
