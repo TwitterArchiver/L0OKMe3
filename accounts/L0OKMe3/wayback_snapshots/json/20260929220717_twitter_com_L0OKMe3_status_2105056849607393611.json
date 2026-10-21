@@ -1,0 +1,537 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2105056849607393611",
+    "created_at": "2026-09-29T22:07:17.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T23:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105056849607393611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2036693718997110784",
+          "start": 3,
+          "username": "elipowerC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105056849607393611",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 347
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104805938003640627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elipowerC: Con todo respeto, eso no es cosplay y es inclusive un insulto que lo llames como tal. Solo te tomaste una foto en ropa inter…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2105056849607393611",
+        "created_at": "2026-09-29T22:07:17.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T23:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105056849607393611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2036693718997110784",
+              "start": 3,
+              "username": "elipowerC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105056849607393611",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 347
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104805938003640627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elipowerC: Con todo respeto, eso no es cosplay y es inclusive un insulto que lo llames como tal. Solo te tomaste una foto en ropa inter…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036693718997110784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2104805938003640627",
+        "created_at": "2026-09-29T05:30:15.000Z",
+        "display_text_range": [
+          0,
+          238
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104805938003640627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KayyaH46124/st…",
+              "end": 262,
+              "expanded_url": "https://twitter.com/KayyaH46124/status/2104580392921493981",
+              "start": 239,
+              "url": "https://t.co/TmUlfXA5vc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104805938003640627",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 558,
+          "impression_count": 79156,
+          "like_count": 7371,
+          "quote_count": 5,
+          "reply_count": 66,
+          "retweet_count": 347
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104580392921493981",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Con todo respeto, eso no es cosplay y es inclusive un insulto que lo llames como tal. Solo te tomaste una foto en ropa interior colocando un sticker de Asa en tu cara. Eso no es cosplay. ¿Que clase de esfuerzo conlleva este \"\"\"cosplay\"\"\"? https://t.co/TmUlfXA5vc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "@qhqq114514\n嚯 让我做选择还不如让盲人去开车",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecy3bV"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2105056849607393611",
+        "name": "R·G_X3💤",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104923218129952768/rDF6eRNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7059,
+          "following_count": 225,
+          "like_count": 32757,
+          "listed_count": 21,
+          "media_count": 247,
+          "tweet_count": 1419
+        },
+        "url": "https://t.co/ZLduecy3bV",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-25T06:36:49.000Z",
+        "description": "Hola, soy Elisabeth Powers. Cuenta de poemas, robótica, entre otras cosas.\nPosdata: te amo y adoro mi amor @broncosaurus0 @Broncosaurio456 ♥️💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 107,
+                "username": "broncosaurus0"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "Broncosaurio456"
+              }
+            ]
+          }
+        },
+        "id": "2036693718997110784",
+        "is_identity_verified": false,
+        "location": "🌈In the Dreamland ☁️♥️",
+        "most_recent_tweet_id": "2105056474443485412",
+        "name": "⫷♡❀𝐸𝑙𝑖𝑠𝑎𝑏𝑒𝑡ℎ❀♡⫸",
+        "pinned_tweet_id": "2036937278811930681",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2036693718997110784/1774422423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036700897452138496/wM5FdGqS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 97,
+          "like_count": 5730,
+          "listed_count": 1,
+          "media_count": 512,
+          "tweet_count": 3603
+        },
+        "url": "",
+        "username": "elipowerC",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

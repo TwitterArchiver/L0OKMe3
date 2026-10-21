@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2110089279556981017",
+    "created_at": "2026-10-14T06:10:50.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-14T07:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110251970082828503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802931870218502144",
+          "start": 0,
+          "username": "Melvin2048"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110251970082828503",
+    "in_reply_to_user_id": "1802931870218502144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110250871703642408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Melvin2048 其实内心已经厌恶恶心的不行了辣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2110089279556981017",
+        "created_at": "2026-10-14T06:10:50.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T07:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110251970082828503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802931870218502144",
+              "start": 0,
+              "username": "Melvin2048"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110251970082828503",
+        "in_reply_to_user_id": "1802931870218502144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110250871703642408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Melvin2048 其实内心已经厌恶恶心的不行了辣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802931870218502144",
+        "conversation_id": "2110089279556981017",
+        "created_at": "2026-10-14T06:06:29.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T07:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110250871703642408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "L0OKMe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110250871703642408",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110245288069996971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L0OKMe3 愤怒得很心平气和"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "@qhqq114514 一位活在过去的怀旧者\n嚯 让我做选择还不如让盲人去开车",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2110251970082828503",
+        "name": "R·G_X3💤",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104923218129952768/rDF6eRNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7040,
+          "following_count": 227,
+          "like_count": 32805,
+          "listed_count": 20,
+          "media_count": 248,
+          "tweet_count": 1411
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-18T05:10:47.000Z",
+        "description": "@ThirteenNote",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "ThirteenNote"
+              }
+            ]
+          }
+        },
+        "id": "1802931870218502144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110250871703642408",
+        "name": "栀冉",
+        "pinned_tweet_id": "2080260017392165221",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1802931870218502144/1754672882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094799378791927809/f-4LIUbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 509,
+          "like_count": 6650,
+          "listed_count": 2,
+          "media_count": 362,
+          "tweet_count": 4995
+        },
+        "url": "",
+        "username": "Melvin2048",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2105055346742215093",
+    "created_at": "2026-09-30T01:08:01.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T02:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105102332505866298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2078372136184401920",
+          "start": 0,
+          "username": "kongyueling78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105102332505866298",
+    "in_reply_to_user_id": "2078372136184401920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105071526488031284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kongyueling78 我草你全家烂屁眼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2105055346742215093",
+        "created_at": "2026-09-30T01:08:01.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T02:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105102332505866298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2078372136184401920",
+              "start": 0,
+              "username": "kongyueling78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105102332505866298",
+        "in_reply_to_user_id": "2078372136184401920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105071526488031284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kongyueling78 我草你全家烂屁眼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078372136184401920",
+        "conversation_id": "2105055346742215093",
+        "created_at": "2026-09-29T23:05:36.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T00:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105071526488031284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "L0OKMe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105071526488031284",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105055346742215093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L0OKMe3 你操他爹了?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "@qhqq114514\n嚯 让我做选择还不如让盲人去开车",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecy3bV"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2105102332505866298",
+        "name": "R·G_X3💤",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104923218129952768/rDF6eRNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7059,
+          "following_count": 225,
+          "like_count": 32761,
+          "listed_count": 21,
+          "media_count": 247,
+          "tweet_count": 1422
+        },
+        "url": "https://t.co/ZLduecy3bV",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T06:52:31.000Z",
+        "description": "",
+        "id": "2078372136184401920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105072874566693188",
+        "name": "我很需要钱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078372136184401920/1784623822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088645498270101504/afYoWCLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 55,
+          "like_count": 1143,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "kongyueling78",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

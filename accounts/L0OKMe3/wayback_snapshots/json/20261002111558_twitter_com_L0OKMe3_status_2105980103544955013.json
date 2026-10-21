@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2105711581103345728",
+    "created_at": "2026-10-02T11:15:58.000Z",
+    "display_text_range": [
+      17,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T12:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105980103544955013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037614188256776192",
+          "start": 0,
+          "username": "gezi_loveMomoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105980103544955013",
+    "in_reply_to_user_id": "2037614188256776192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105814045668556855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gezi_loveMomoki 盘点那些最素质 最不种族歧视 最绅士的某些群体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2105711581103345728",
+        "created_at": "2026-10-02T11:15:58.000Z",
+        "display_text_range": [
+          17,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T12:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105980103544955013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037614188256776192",
+              "start": 0,
+              "username": "gezi_loveMomoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105980103544955013",
+        "in_reply_to_user_id": "2037614188256776192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105814045668556855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gezi_loveMomoki 盘点那些最素质 最不种族歧视 最绅士的某些群体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037614188256776192",
+        "conversation_id": "2105711581103345728",
+        "created_at": "2026-10-02T00:16:07.000Z",
+        "display_text_range": [
+          9,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T01:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105814045668556855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "L0OKMe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105814045668556855",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1066,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105711581103345728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L0OKMe3 那我知道他看见黑人的时候会说什么了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "@qhqq114514 一位活在过去的怀旧者\n嚯 让我做选择还不如让盲人去开车",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2105980103544955013",
+        "name": "R·G_X3💤",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104923218129952768/rDF6eRNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7056,
+          "following_count": 224,
+          "like_count": 32785,
+          "listed_count": 21,
+          "media_count": 247,
+          "tweet_count": 1408
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-27T19:34:29.000Z",
+        "description": "乙代梦全肯定，本号禁腐禁㽖禁rn禁rh，隐私账号不要关注我，只支持染色体为xx且心理认同为女的女孩，此账号发布的所有言论，意在取悦自己，并通过文字和图片强制干预他人的思想，如果翻阅之后出现不适等症状，恭喜你，你被我结扎了。",
+        "id": "2037614188256776192",
+        "is_identity_verified": false,
+        "location": "男的评论我立刻变太监",
+        "most_recent_tweet_id": "2105922022320771543",
+        "name": "鸽子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037614188256776192/1774672092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037614374270255104/W_C1e1eH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 143,
+          "like_count": 8882,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 4645
+        },
+        "url": "",
+        "username": "gezi_loveMomoki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

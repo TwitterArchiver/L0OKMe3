@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2111091383062995385",
+    "created_at": "2026-10-16T20:12:00.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-16T21:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2111188430889902177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1862825645824507904",
+          "start": 0,
+          "username": "ThanksuTrump"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2111188430889902177",
+    "in_reply_to_user_id": "1862825645824507904",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2111123518016663898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThanksuTrump ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2111091383062995385",
+        "created_at": "2026-10-16T20:12:00.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-16T21:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2111188430889902177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862825645824507904",
+              "start": 0,
+              "username": "ThanksuTrump"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2111188430889902177",
+        "in_reply_to_user_id": "1862825645824507904",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2111123518016663898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThanksuTrump ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862825645824507904",
+        "conversation_id": "2111091383062995385",
+        "created_at": "2026-10-16T15:54:04.000Z",
+        "display_text_range": [
+          9,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-16T16:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2111123518016663898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "L0OKMe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2111123518016663898",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2111091383062995385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L0OKMe3 家长那套三言两语就能直接结束对话的技能，真是太厉害了。刚刚打开心扉，结果立马就被关上了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "@qhqq114514 一位活在过去的怀旧者\n嚯 让我做选择还不如让盲人去开车",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2111188430889902177",
+        "name": "R·G_X3💤",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104923218129952768/rDF6eRNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7030,
+          "following_count": 226,
+          "like_count": 32809,
+          "listed_count": 20,
+          "media_count": 250,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-30T11:47:10.000Z",
+        "description": "P+账号目标每日和蓝朋友互动三百次｜互关涨粉插件 https://t.co/bqMGr3Irhj｜群 https://t.co/lzCH3ZLOum (骗子多不要相信私聊)｜爱好寻找Alpha｜超级个体 Ai X Crypto｜既懂投资，又懂投机｜看得远，出手准。｜一年出手两三次足矣",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20643…",
+                "end": 48,
+                "expanded_url": "http://x.com/i/status/2064367294088888376",
+                "start": 25,
+                "url": "https://t.co/bqMGr3Irhj"
+              },
+              {
+                "display_url": "t.me/+ZWVcAmte3tlmZ…",
+                "end": 74,
+                "expanded_url": "https://t.me/+ZWVcAmte3tlmZjky",
+                "start": 51,
+                "url": "https://t.co/lzCH3ZLOum"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZWVcAmte3tlmZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZWVcAmte3tlmZjky",
+                "start": 0,
+                "url": "https://t.co/lzCH3ZLOum"
+              }
+            ]
+          }
+        },
+        "id": "1862825645824507904",
+        "is_identity_verified": false,
+        "location": "距离你0.08km",
+        "most_recent_tweet_id": "2111188372689748454",
+        "name": "猫投鹰 (鹰哥)",
+        "pinned_tweet_id": "2099870768788365697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862825645824507904/1759664907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061283513970860032/Ndq5Vqxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33670,
+          "following_count": 32082,
+          "like_count": 143141,
+          "listed_count": 33,
+          "media_count": 923,
+          "tweet_count": 27717
+        },
+        "url": "https://t.co/lzCH3ZLOum",
+        "username": "ThanksuTrump",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

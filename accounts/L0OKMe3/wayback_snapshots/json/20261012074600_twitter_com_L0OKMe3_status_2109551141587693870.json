@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2109322309693505973",
+    "created_at": "2026-10-12T07:46:00.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T08:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109551141587693870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1723715289723092992",
+          "start": 0,
+          "username": "CharmingFurina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109551141587693870",
+    "in_reply_to_user_id": "1723715289723092992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109450522344427955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharmingFurina 你是那个理科生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2109322309693505973",
+        "created_at": "2026-10-12T07:46:00.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T08:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109551141587693870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1723715289723092992",
+              "start": 0,
+              "username": "CharmingFurina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109551141587693870",
+        "in_reply_to_user_id": "1723715289723092992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109450522344427955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharmingFurina 你是那个理科生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723715289723092992",
+        "conversation_id": "2109322309693505973",
+        "created_at": "2026-10-12T01:06:10.000Z",
+        "display_text_range": [
+          9,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T02:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109450522344427955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "L0OKMe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109450522344427955",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109322309693505973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L0OKMe3 www美潮\n好久不見了w還記得我嗎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "@qhqq114514 一位活在过去的怀旧者\n嚯 让我做选择还不如让盲人去开车",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2109551141587693870",
+        "name": "R·G_X3💤",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104923218129952768/rDF6eRNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7040,
+          "following_count": 227,
+          "like_count": 32801,
+          "listed_count": 20,
+          "media_count": 248,
+          "tweet_count": 1402
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-12T14:52:12.000Z",
+        "description": "中推第一芙廚🥰/重慶/2007/大一/工科生/現生日常/🇹🇼中華民國派❂/身高183cm/澀澀/數學/語言學/中華文化圈研究/東亞團結🇹🇼🇰🇷🇯🇵/原神/崩鐵/友LGBT/English/한국어/日本語/自拍注意⚠️/小帳@Furina_Cyrene",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "Furina_Cyrene"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/charmingfurina",
+                "end": 23,
+                "expanded_url": "http://ngl.link/charmingfurina",
+                "start": 0,
+                "url": "https://t.co/Y8AOwF2rRY"
+              }
+            ]
+          }
+        },
+        "id": "1723715289723092992",
+        "is_identity_verified": false,
+        "location": "新義州市 平安北道 大韓民國🇰🇷",
+        "most_recent_tweet_id": "2109530017688617123",
+        "name": "💙迷人的芙芙💙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723715289723092992/1743173318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958894650598858753/c_kIQugG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 3721,
+          "like_count": 86086,
+          "listed_count": 11,
+          "media_count": 1334,
+          "tweet_count": 18805
+        },
+        "url": "https://t.co/Y8AOwF2rRY",
+        "username": "CharmingFurina",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

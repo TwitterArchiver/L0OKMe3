@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105711573536804865"
+      ]
+    },
+    "author_id": "1795072631169044480",
+    "conversation_id": "2105711581103345728",
+    "created_at": "2026-10-01T17:28:57.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T18:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105711581103345728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d6J6C2ChKr",
+          "end": 71,
+          "expanded_url": "https://x.com/L0OKMe3/status/2105711581103345728/photo/1",
+          "media_key": "3_2105711573536804865",
+          "start": 48,
+          "url": "https://t.co/d6J6C2ChKr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105711581103345728",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105711573536804865"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我实在无法理解说出这种话的人的脑回路 到底是因为接触的女性都是色情片里的所以才得出这种结论的吧 https://t.co/d6J6C2ChKr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 195,
+        "media_key": "3_2105711573536804865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTj9hQQXEAElZnw.jpg",
+        "width": 737
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105711573536804865"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "2105711581103345728",
+        "created_at": "2026-10-01T17:28:57.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T18:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105711581103345728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d6J6C2ChKr",
+              "end": 71,
+              "expanded_url": "https://x.com/L0OKMe3/status/2105711581103345728/photo/1",
+              "media_key": "3_2105711573536804865",
+              "start": 48,
+              "url": "https://t.co/d6J6C2ChKr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105711581103345728",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105711573536804865"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我实在无法理解说出这种话的人的脑回路 到底是因为接触的女性都是色情片里的所以才得出这种结论的吧 https://t.co/d6J6C2ChKr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "@qhqq114514\n嚯 让我做选择还不如让盲人去开车",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecy3bV"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2105711581103345728",
+        "name": "R·G_X3💤",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104923218129952768/rDF6eRNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7053,
+          "following_count": 224,
+          "like_count": 32761,
+          "listed_count": 21,
+          "media_count": 247,
+          "tweet_count": 1397
+        },
+        "url": "https://t.co/ZLduecy3bV",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

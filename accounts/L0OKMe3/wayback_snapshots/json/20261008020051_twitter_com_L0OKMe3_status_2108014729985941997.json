@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108014706371764224",
+        "3_2108014706371747840",
+        "3_2108014706376019968",
+        "3_2108014706338271233"
+      ]
+    },
+    "author_id": "1795072631169044480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2108014729985941997",
+    "created_at": "2026-10-08T02:00:51.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T03:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108014729985941997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844290406391103488",
+          "start": 2,
+          "username": "qhqq114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qjudKuV8wb",
+          "end": 136,
+          "expanded_url": "https://x.com/L0OKMe3/status/2108014729985941997/photo/1",
+          "media_key": "3_2108014706371764224",
+          "start": 113,
+          "url": "https://t.co/qjudKuV8wb"
+        },
+        {
+          "display_url": "pic.x.com/qjudKuV8wb",
+          "end": 136,
+          "expanded_url": "https://x.com/L0OKMe3/status/2108014729985941997/photo/1",
+          "media_key": "3_2108014706371747840",
+          "start": 113,
+          "url": "https://t.co/qjudKuV8wb"
+        },
+        {
+          "display_url": "pic.x.com/qjudKuV8wb",
+          "end": 136,
+          "expanded_url": "https://x.com/L0OKMe3/status/2108014729985941997/photo/1",
+          "media_key": "3_2108014706376019968",
+          "start": 113,
+          "url": "https://t.co/qjudKuV8wb"
+        },
+        {
+          "display_url": "pic.x.com/qjudKuV8wb",
+          "end": 136,
+          "expanded_url": "https://x.com/L0OKMe3/status/2108014729985941997/photo/1",
+          "media_key": "3_2108014706338271233",
+          "start": 113,
+          "url": "https://t.co/qjudKuV8wb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108014729985941997",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108014706371764224"
+      },
+      {
+        "media_key": "3_2108014706371747840"
+      },
+      {
+        "media_key": "3_2108014706376019968"
+      },
+      {
+        "media_key": "3_2108014706338271233"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢@qhqq114514 受到你的启发，我准备在2067年5月30日的6点07分尝试潜入我曾经的校园进行屠杀 并且会在此平台进行直播（看完你描述的各大主角经历，让我明白，有些人永远无法被感化，我也不会因此忏悔）等到就绪吧。 https://t.co/qjudKuV8wb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1315,
+        "media_key": "3_2108014706371764224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUEsNOqWoAAdmg3.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1095,
+        "media_key": "3_2108014706371747840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUEsNOqWYAAmSun.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1107,
+        "media_key": "3_2108014706376019968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUEsNOrXkAALCSX.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2108014706338271233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUEsNOiXkAESLlA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108014706371764224",
+            "3_2108014706371747840",
+            "3_2108014706376019968",
+            "3_2108014706338271233"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2108014729985941997",
+        "created_at": "2026-10-08T02:00:51.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T03:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108014729985941997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844290406391103488",
+              "start": 2,
+              "username": "qhqq114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qjudKuV8wb",
+              "end": 136,
+              "expanded_url": "https://x.com/L0OKMe3/status/2108014729985941997/photo/1",
+              "media_key": "3_2108014706371764224",
+              "start": 113,
+              "url": "https://t.co/qjudKuV8wb"
+            },
+            {
+              "display_url": "pic.x.com/qjudKuV8wb",
+              "end": 136,
+              "expanded_url": "https://x.com/L0OKMe3/status/2108014729985941997/photo/1",
+              "media_key": "3_2108014706371747840",
+              "start": 113,
+              "url": "https://t.co/qjudKuV8wb"
+            },
+            {
+              "display_url": "pic.x.com/qjudKuV8wb",
+              "end": 136,
+              "expanded_url": "https://x.com/L0OKMe3/status/2108014729985941997/photo/1",
+              "media_key": "3_2108014706376019968",
+              "start": 113,
+              "url": "https://t.co/qjudKuV8wb"
+            },
+            {
+              "display_url": "pic.x.com/qjudKuV8wb",
+              "end": 136,
+              "expanded_url": "https://x.com/L0OKMe3/status/2108014729985941997/photo/1",
+              "media_key": "3_2108014706338271233",
+              "start": 113,
+              "url": "https://t.co/qjudKuV8wb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108014729985941997",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108014706371764224"
+          },
+          {
+            "media_key": "3_2108014706371747840"
+          },
+          {
+            "media_key": "3_2108014706376019968"
+          },
+          {
+            "media_key": "3_2108014706338271233"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@qhqq114514 受到你的启发，我准备在2067年5月30日的6点07分尝试潜入我曾经的校园进行屠杀 并且会在此平台进行直播（看完你描述的各大主角经历，让我明白，有些人永远无法被感化，我也不会因此忏悔）等到就绪吧。 https://t.co/qjudKuV8wb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "@qhqq114514 一位活在过去的怀旧者\n嚯 让我做选择还不如让盲人去开车",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2108014729985941997",
+        "name": "R·G_X3💤",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104923218129952768/rDF6eRNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7049,
+          "following_count": 226,
+          "like_count": 32784,
+          "listed_count": 20,
+          "media_count": 245,
+          "tweet_count": 1389
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-10T08:14:42.000Z",
+        "description": "关注祂：@L0OKMe3 此账号看心情：@BadFoxGod_ 纯粹的碎碎念：@die11037",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "L0OKMe3"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "BadFoxGod_"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "die11037"
+              }
+            ]
+          }
+        },
+        "id": "1844290406391103488",
+        "is_identity_verified": false,
+        "location": "Osaka-fu, Japan",
+        "most_recent_tweet_id": "2108001507975283067",
+        "name": "命运石之门",
+        "pinned_tweet_id": "2072328134293418337",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844290406391103488/1767024983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096647668194058241/V1iJLPc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 255,
+          "like_count": 2221,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 4619
+        },
+        "url": "",
+        "username": "qhqq114514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

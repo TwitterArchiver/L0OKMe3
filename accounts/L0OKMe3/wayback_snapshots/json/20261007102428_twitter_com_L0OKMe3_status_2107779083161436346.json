@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2107738318343692651",
+    "created_at": "2026-10-07T10:24:28.000Z",
+    "display_text_range": [
+      14,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T11:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107779083161436346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1546760344831287296",
+          "start": 0,
+          "username": "KolinskyVbox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107779083161436346",
+    "in_reply_to_user_id": "1546760344831287296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107769195345924293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KolinskyVbox 我无语了 她打了29个电话催我去上学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2107738318343692651",
+        "created_at": "2026-10-07T10:24:28.000Z",
+        "display_text_range": [
+          14,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T11:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107779083161436346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1546760344831287296",
+              "start": 0,
+              "username": "KolinskyVbox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107779083161436346",
+        "in_reply_to_user_id": "1546760344831287296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107769195345924293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KolinskyVbox 我无语了 她打了29个电话催我去上学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546760344831287296",
+        "conversation_id": "2107738318343692651",
+        "created_at": "2026-10-07T09:45:11.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T10:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107769195345924293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "L0OKMe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107769195345924293",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107738318343692651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L0OKMe3 雷霆一般的语言系统"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "@qhqq114514 一位活在过去的怀旧者\n嚯 让我做选择还不如让盲人去开车",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2107779083161436346",
+        "name": "R·G_X3💤",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104923218129952768/rDF6eRNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7050,
+          "following_count": 226,
+          "like_count": 32782,
+          "listed_count": 20,
+          "media_count": 244,
+          "tweet_count": 1384
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-12T07:36:30.000Z",
+        "description": "终于，我们的心意不再相悖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ocebox.fun",
+                "end": 23,
+                "expanded_url": "http://ocebox.fun",
+                "start": 0,
+                "url": "https://t.co/QfMgThqu7Y"
+              }
+            ]
+          }
+        },
+        "id": "1546760344831287296",
+        "is_identity_verified": false,
+        "location": "#朱拉大森林",
+        "most_recent_tweet_id": "2107769195345924293",
+        "name": "青云ACG",
+        "pinned_tweet_id": "1750990761590661332",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546760344831287296/1752081466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100959503785316352/JPpwZu4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 332,
+          "like_count": 1323,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 3592
+        },
+        "url": "https://t.co/QfMgThqu7Y",
+        "username": "KolinskyVbox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

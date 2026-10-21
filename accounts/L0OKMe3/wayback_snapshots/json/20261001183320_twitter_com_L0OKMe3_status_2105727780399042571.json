@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2105727780399042571",
+    "created_at": "2026-10-01T18:33:20.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T19:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105727780399042571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yukinoncc/stat…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/yukinoncc/status/2105369902874030182",
+          "start": 33,
+          "url": "https://t.co/IHgnDxZg44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105727780399042571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105369902874030182",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝放心 不用当回事 你只是得了猫藓 在家里涂点芥末过几天就好了 https://t.co/IHgnDxZg44"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2105727780399042571",
+        "created_at": "2026-10-01T18:33:20.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T19:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105727780399042571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yukinoncc/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/yukinoncc/status/2105369902874030182",
+              "start": 33,
+              "url": "https://t.co/IHgnDxZg44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105727780399042571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105369902874030182",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝放心 不用当回事 你只是得了猫藓 在家里涂点芥末过几天就好了 https://t.co/IHgnDxZg44"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1306129238827778048",
+        "conversation_id": "2105369902874030182",
+        "created_at": "2026-09-30T18:51:15.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T19:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105369902874030182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seannichol8254…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/seannichol82542/status/2104923525337473485",
+              "start": 26,
+              "url": "https://t.co/d9Xu73Nzug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105369902874030182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 796783,
+          "like_count": 1308,
+          "quote_count": 3,
+          "reply_count": 161,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104923525337473485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前面忘了后面忘了中间忘了，总之是猫猫表达爱意的方式 https://t.co/d9Xu73Nzug"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "@qhqq114514\n嚯 让我做选择还不如让盲人去开车",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecy3bV"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2105727780399042571",
+        "name": "R·G_X3💤",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104923218129952768/rDF6eRNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7053,
+          "following_count": 224,
+          "like_count": 32765,
+          "listed_count": 21,
+          "media_count": 247,
+          "tweet_count": 1400
+        },
+        "url": "https://t.co/ZLduecy3bV",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-16T07:14:21.000Z",
+        "description": "🐧人間になりたいですわ | 💫ℙ𝕖𝕣 𝕒𝕤𝕡𝕖𝕣𝕒 𝕒𝕕 𝕒𝕤𝕥𝕣𝕒 🌠|🚪：𝟭𝘽𝙏𝘾｜Ask me anonymously : https://t.co/jmSdkECPE6｜Personal site : https://t.co/YBAOgiCM9e",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukinoncc",
+                "end": 88,
+                "expanded_url": "https://ngl.link/yukinoncc",
+                "start": 65,
+                "url": "https://t.co/jmSdkECPE6"
+              },
+              {
+                "display_url": "yukinon.cc",
+                "end": 128,
+                "expanded_url": "https://www.yukinon.cc",
+                "start": 105,
+                "url": "https://t.co/YBAOgiCM9e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yukinon.cc",
+                "end": 23,
+                "expanded_url": "https://www.yukinon.cc",
+                "start": 0,
+                "url": "https://t.co/YBAOgiCM9e"
+              }
+            ]
+          }
+        },
+        "id": "1306129238827778048",
+        "is_identity_verified": false,
+        "location": "ワンピンナンルー600号より脱走中",
+        "most_recent_tweet_id": "2105704313725284499",
+        "name": "ユキ🎀",
+        "pinned_tweet_id": "2070333005898637336",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1306129238827778048/1739582139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100670195174113280/YZkcqtL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 715,
+          "like_count": 16796,
+          "listed_count": 0,
+          "media_count": 791,
+          "tweet_count": 5354
+        },
+        "url": "https://t.co/YBAOgiCM9e",
+        "username": "YukinonCC",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

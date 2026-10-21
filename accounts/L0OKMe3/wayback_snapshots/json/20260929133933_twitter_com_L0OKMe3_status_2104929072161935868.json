@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1795072631169044480",
+    "conversation_id": "2104929072161935868",
+    "created_at": "2026-09-29T13:39:33.000Z",
+    "display_text_range": [
+      0,
+      147
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T14:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104929072161935868"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104929072161935868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我总是陷入一个思想的无底洞 这让我无法真正的去痛恨那些伤害过我的人 我会思考它们所作的一切都可以从童年 从环境 从周围找到原因 它们殴打我 也许是因为它们的父母也这样殴打它们\n抱着这样的想法 我对任何人都无法去真正的“恨”\n于是我把这个“恨”全转移到了那些不负责的 诞下生命 制造痛苦的父母身上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2104929072161935868",
+        "created_at": "2026-09-29T13:39:33.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104929072161935868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104929072161935868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我总是陷入一个思想的无底洞 这让我无法真正的去痛恨那些伤害过我的人 我会思考它们所作的一切都可以从童年 从环境 从周围找到原因 它们殴打我 也许是因为它们的父母也这样殴打它们\n抱着这样的想法 我对任何人都无法去真正的“恨”\n于是我把这个“恨”全转移到了那些不负责的 诞下生命 制造痛苦的父母身上"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "@qhqq114514 Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love Toph my love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "qhqq114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecy3bV"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "is_identity_verified": false,
+        "location": "失傳媒體",
+        "most_recent_tweet_id": "2104929072161935868",
+        "name": "R·G_X3💤",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795072631169044480/1789194840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104923218129952768/rDF6eRNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7059,
+          "following_count": 225,
+          "like_count": 32743,
+          "listed_count": 21,
+          "media_count": 246,
+          "tweet_count": 1412
+        },
+        "url": "https://t.co/ZLduecy3bV",
+        "username": "L0OKMe3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
